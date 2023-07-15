@@ -26,10 +26,10 @@ public class PrimitiveType {
         System.out.println("Size of float => " + Float.SIZE);
         System.out.println("Size of double => " + Double.SIZE);
 
-        // Java's default type for whole number is 'int'
-        // Java's default type for floating number is 'double'
-
         /*
+         * Java's default type for whole number is 'int'
+         * Java's default type for floating number is 'double'
+         *
          * Java uses the concept of a wrapper class, for all of its 8 primitive data types
          * A wrapper class provides simple operations, as well as some basic information about the primitive data type,
          * which cannot be stored on the primitive itself.
