@@ -12,9 +12,9 @@ public class Method4 {
     public static boolean isLeapYear(int year) {
         if (year >= 1 && year <= 9999) {
             boolean divisibleBy4 = year % 4 == 0;
-            boolean divisibleBy100 = year % 100 != 0;
+            boolean notDivisibleBy100 = year % 100 != 0;
             boolean divisibleBy400 = year % 400 == 0;
-            return (divisibleBy4 && divisibleBy100) || divisibleBy400;
+            return (divisibleBy4 && notDivisibleBy100) || divisibleBy400;
         }
         return false;
     }
