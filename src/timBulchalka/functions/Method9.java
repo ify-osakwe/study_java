@@ -6,6 +6,7 @@ public class Method9 {
         printEqual(1, 1, 2);
         printEqual(-1, -1, -1);
         printEqual(1, 2, 3);
+        printEqual(1,2,1);
     }
 
     public static void printEqual(int a, int b, int c) {
@@ -15,10 +16,10 @@ public class Method9 {
         }
         if (a == b && b == c) {
             System.out.println("All numbers are equal");
-            return;
-        } else {
+        } else if (a != b && b != c) {
             System.out.println("All numbers are different");
+        } else {
+            System.out.println("Neither all are equal or different");
         }
-        System.out.println("Neither are equal or different");
     }
 }
