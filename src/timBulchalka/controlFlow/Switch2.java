@@ -43,7 +43,7 @@ public class Switch2 {
     }
 
     public static String getQuarter2(String month) {
-        // Returning a value in the enhanced switch syntax
+        // Returning a value in the enhanced switch syntax.
         // 'yield' is used in a code block in an enhanced switch statement
         // instead of 'return'
         return switch (month) {
