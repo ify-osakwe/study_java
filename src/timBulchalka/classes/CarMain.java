@@ -1,7 +1,8 @@
 package timBulchalka.classes;
 
-public class Placeholder {
+public class CarMain {
     public static void main(String[] args) {
-        System.out.println("Hello motherfucker");
+        Car car = new Car();
+        car.describeCar();
     }
 }
