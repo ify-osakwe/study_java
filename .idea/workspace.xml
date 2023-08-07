@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForLoop1">
+  <component name="RunManager" selected="Application.ReadInput2">
     <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.ForLoop1" />
       <module name="study_java" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method8" />
+    <configuration name="ReadInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
+          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,25 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method9" />
+    <configuration name="ReadInput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.Switch1" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
+          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.WhileLoop" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadInput2" />
+        <item itemvalue="Application.ReadInput" />
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoop1" />
         <item itemvalue="Application.Switch3" />
-        <item itemvalue="Application.Switch1" />
-        <item itemvalue="Application.Method9" />
-        <item itemvalue="Application.Method8" />
       </list>
     </recent_temporary>
   </component>
