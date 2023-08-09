@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/classes/Placeholder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/classes/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/classes/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -46,9 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarMain">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.CarMain" />
+  <component name="RunManager" selected="Application.StudentMain">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.AccountMain" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.ForLoop1" />
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.CarMain" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
+          <option name="PATTERN" value="timBulchalka.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.WhileLoop" />
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.StudentMain" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
+          <option name="PATTERN" value="timBulchalka.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentMain" />
+        <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.ReadInput2" />
         <item itemvalue="Application.ReadInput" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.ForLoop1" />
       </list>
     </recent_temporary>
   </component>
