@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/classes/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/classes/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,15 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;tutorials&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tutorials",
+    "last_opened_file_path": "/home/rexfilius/projects/java/ShapesCalculator-Java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.StudentMain">
+}]]></component>
+  <component name="RunManager" selected="Application.StringFormatting">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.AccountMain" />
       <module name="study_java" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput" />
+    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.intro.StringFormatting" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
+          <option name="PATTERN" value="timBulchalka.intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadInput2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput2" />
+    <configuration name="StringTextBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.intro.StringTextBlock" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
+          <option name="PATTERN" value="timBulchalka.intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringFormatting" />
+        <item itemvalue="Application.StringTextBlock" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.ReadInput2" />
-        <item itemvalue="Application.ReadInput" />
       </list>
     </recent_temporary>
   </component>
