@@ -6,11 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/creational/factory/FactoryPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,22 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;tutorials&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rexfilius/projects/java/ShapesCalculator-Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Computer.executor": "Run",
+    "Application.Delegation.executor": "Run",
+    "Application.DependencyInjection.executor": "Run",
+    "Application.ProgramToInterface.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tutorials",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/rexfilius/projects/java/ShapesCalculator-Java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestStream3">
-    <configuration name="TestStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.TestStream" />
+}]]></component>
+  <component name="RunManager" selected="Application.DependencyInjection">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.programToInterface.Computer" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="designPatterns.programToInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +70,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.TestStream2" />
+    <configuration name="Delegation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.delegation.Delegation" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="designPatterns.delegation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyInjection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.dependencyInjection.DependencyInjection" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.dependencyInjection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramToInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.programToInterface.ProgramToInterface" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.programToInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,41 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.WordleGame" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordleGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.WordleGame2" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DependencyInjection" />
+        <item itemvalue="Application.Delegation" />
+        <item itemvalue="Application.ProgramToInterface" />
+        <item itemvalue="Application.Computer" />
         <item itemvalue="Application.TestStream3" />
-        <item itemvalue="Application.TestStream2" />
-        <item itemvalue="Application.WordleGame2" />
-        <item itemvalue="Application.WordleGame" />
-        <item itemvalue="Application.TestStream" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
