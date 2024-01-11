@@ -44,10 +44,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractCreator.executor": "Run",
     "Application.Computer.executor": "Run",
+    "Application.ConcreteCreator.executor": "Run",
     "Application.Delegation.executor": "Run",
     "Application.DependencyInjection.executor": "Run",
     "Application.ProgramToInterface.executor": "Run",
+    "Application.StaticMethod.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "tutorials",
@@ -56,13 +59,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DependencyInjection">
-    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.programToInterface.Computer" />
+  <component name="RunManager" selected="Application.FactoryPattern">
+    <configuration name="AbstractCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.factory.abstractCreator.AbstractCreator" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.programToInterface.*" />
+          <option name="PATTERN" value="designPatterns.creational.factory.abstractCreator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delegation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.delegation.Delegation" />
+    <configuration name="ConcreteCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.factory.concreteCreator.ConcreteCreator" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.delegation.*" />
+          <option name="PATTERN" value="designPatterns.creational.factory.concreteCreator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramToInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.programToInterface.ProgramToInterface" />
+    <configuration name="FactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.factory.FactoryPattern" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.programToInterface.*" />
+          <option name="PATTERN" value="designPatterns.creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStream3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.TestStream3" />
+    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.factory.staticMethod.StaticMethod" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="designPatterns.creational.factory.staticMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryPattern" />
+        <item itemvalue="Application.StaticMethod" />
+        <item itemvalue="Application.ConcreteCreator" />
+        <item itemvalue="Application.AbstractCreator" />
         <item itemvalue="Application.DependencyInjection" />
-        <item itemvalue="Application.Delegation" />
-        <item itemvalue="Application.ProgramToInterface" />
-        <item itemvalue="Application.Computer" />
-        <item itemvalue="Application.TestStream3" />
       </list>
     </recent_temporary>
   </component>
