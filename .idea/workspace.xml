@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/AbstractFactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/AbstractFactoryPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/SingletonPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/creational/singleton/SingletonPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbstractCreator.executor": "Run",
-    "Application.AbstractFactoryPattern.executor": "Run",
-    "Application.Computer.executor": "Run",
-    "Application.ConcreteCreator.executor": "Run",
-    "Application.Delegation.executor": "Run",
-    "Application.DependencyInjection.executor": "Run",
-    "Application.FactoryPattern.executor": "Run",
-    "Application.ProgramToInterface.executor": "Run",
-    "Application.StaticMethod.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "tutorials",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rexfilius/projects/java/ShapesCalculator-Java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractCreator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractFactoryPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Computer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcreteCreator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Delegation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DependencyInjection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgramToInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tutorials&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rexfilius/projects/java/ShapesCalculator-Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.AbstractFactoryPattern">
     <configuration name="AbstractCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.creational.factory.abstractCreator.AbstractCreator" />
