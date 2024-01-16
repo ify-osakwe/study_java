@@ -1,4 +1,4 @@
-package designPatterns.delegation;
+package designPatterns.general.delegation;
 
 class RealPrinter {
     void print() {

@@ -1,4 +1,4 @@
-package designPatterns.programToInterface;
+package designPatterns.general.programToInterface;
 
 public class ProgramToInterface {
     public static void main(String[] args) {

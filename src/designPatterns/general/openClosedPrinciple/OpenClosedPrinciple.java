@@ -1,4 +1,4 @@
-package designPatterns.openClosedPrinciple;
+package designPatterns.general.openClosedPrinciple;
 
 class Rectangle implements Shape {
     public double length;

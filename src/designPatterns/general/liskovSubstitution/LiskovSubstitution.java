@@ -1,7 +1,5 @@
-package designPatterns.liskovSubstitution;
+package designPatterns.general.liskovSubstitution;
 
-
-import java.util.List;
 
 abstract class Vehicle {
     abstract int getSpeed();

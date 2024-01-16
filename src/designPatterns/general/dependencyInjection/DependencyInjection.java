@@ -1,4 +1,4 @@
-package designPatterns.dependencyInjection;
+package designPatterns.general.dependencyInjection;
 
 interface Service {
     void write(String message);

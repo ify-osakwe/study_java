@@ -1,4 +1,4 @@
-package designPatterns.dependencyInversion;
+package designPatterns.general.dependencyInversion;
 
 interface DBConnection {
     int connect();

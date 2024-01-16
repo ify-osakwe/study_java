@@ -1,4 +1,4 @@
-package designPatterns.programToInterface;
+package designPatterns.general.programToInterface;
 
 interface DisplayModule {
     public void display();

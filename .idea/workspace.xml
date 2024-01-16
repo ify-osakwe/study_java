@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/prototype/ShapeCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/delegation/Delegation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/delegation/Delegation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/dependencyInjection/DependencyInjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/dependencyInjection/DependencyInjection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/dependencyInversion/DependencyInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/dependencyInversion/DependencyInversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/liskovSubstitution/LiskovSubstitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/liskovSubstitution/LiskovSubstitution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/openClosedPrinciple/OpenClosedPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/openClosedPrinciple/OpenClosedPrinciple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/programToInterface/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/programToInterface/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/programToInterface/ProgramToInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/general/programToInterface/ProgramToInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/bridge/BridgePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/structural/bridge/BridgePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,8 @@
   "keyToString": {
     "Application.AbstractCreator.executor": "Run",
     "Application.AbstractFactoryPattern.executor": "Run",
+    "Application.BridgePattern.executor": "Run",
+    "Application.BridgePattern2.executor": "Run",
     "Application.BuilderPattern.executor": "Run",
     "Application.ClassAdapter.executor": "Run",
     "Application.Computer.executor": "Run",
@@ -66,13 +75,26 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClassAdapter">
-    <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.builder.BuilderPattern" />
+  <component name="RunManager" selected="Application.BridgePattern2">
+    <configuration name="BridgePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.bridge.BridgePattern" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.creational.builder.*" />
+          <option name="PATTERN" value="designPatterns.structural.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridgePattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.bridge.BridgePattern2" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.creational.prototype.PrototypePattern" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPatterns.creational.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BridgePattern2" />
+        <item itemvalue="Application.BridgePattern" />
         <item itemvalue="Application.ClassAdapter" />
         <item itemvalue="Application.ObjectAdapterPattern2" />
         <item itemvalue="Application.ObjectAdapterPattern" />
-        <item itemvalue="Application.PrototypePattern" />
-        <item itemvalue="Application.BuilderPattern" />
       </list>
     </recent_temporary>
   </component>
