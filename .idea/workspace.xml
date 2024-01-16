@@ -53,6 +53,9 @@
     "Application.ClientP.executor": "Run",
     "Application.Computer.executor": "Run",
     "Application.ConcreteCreator.executor": "Run",
+    "Application.DecoratorPattern.executor": "Run",
+    "Application.DecoratorPattern2.executor": "Run",
+    "Application.DecoratorPattern3.executor": "Run",
     "Application.Delegation.executor": "Run",
     "Application.DependencyInjection.executor": "Run",
     "Application.FactoryPattern.executor": "Run",
@@ -69,39 +72,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClientP">
-    <configuration name="BridgePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.bridge.BridgePattern" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPatterns.structural.bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DecoratorPattern3">
     <configuration name="BridgePattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.structural.bridge.BridgePattern2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="designPatterns.structural.bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.adapter.ClassAdapter" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPatterns.structural.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +99,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAdapterPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.adapter.ObjectAdapterPattern2" />
+    <configuration name="DecoratorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.decorator.DecoratorPattern" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.structural.adapter.*" />
+          <option name="PATTERN" value="designPatterns.structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.decorator.DecoratorPattern2" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.decorator.DecoratorPattern3" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.structural.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoratorPattern3" />
+        <item itemvalue="Application.DecoratorPattern2" />
+        <item itemvalue="Application.DecoratorPattern" />
         <item itemvalue="Application.ClientP" />
         <item itemvalue="Application.BridgePattern2" />
-        <item itemvalue="Application.BridgePattern" />
-        <item itemvalue="Application.ClassAdapter" />
-        <item itemvalue="Application.ObjectAdapterPattern2" />
       </list>
     </recent_temporary>
   </component>
