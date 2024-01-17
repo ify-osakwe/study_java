@@ -58,6 +58,7 @@
     "Application.DecoratorPattern3.executor": "Run",
     "Application.Delegation.executor": "Run",
     "Application.DependencyInjection.executor": "Run",
+    "Application.FacadePattern.executor": "Run",
     "Application.FactoryPattern.executor": "Run",
     "Application.ObjectCompositionPattern.executor": "Run",
     "Application.ObjectCompositionPattern2.executor": "Run",
@@ -68,24 +69,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rexfilius/projects/java/ShapesCalculator-Java",
+    "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DecoratorPattern3">
-    <configuration name="BridgePattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.bridge.BridgePattern2" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPatterns.structural.bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FacadePattern">
     <configuration name="ClientP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.structural.composite.ClientP" />
       <module name="study_java" />
@@ -138,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FacadePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.facade.FacadePattern" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.structural.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FacadePattern" />
         <item itemvalue="Application.DecoratorPattern3" />
         <item itemvalue="Application.DecoratorPattern2" />
         <item itemvalue="Application.DecoratorPattern" />
         <item itemvalue="Application.ClientP" />
-        <item itemvalue="Application.BridgePattern2" />
       </list>
     </recent_temporary>
   </component>
