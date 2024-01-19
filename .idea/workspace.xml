@@ -7,9 +7,6 @@
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/chainOfResponsibility/ChainResponsibilityPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/chainOfResponsibility/ChainResponsibilityPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/command/CommandPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/command/CommandPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/interpreter/InterpreterPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/interpreter/InterpreterPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/iterator/IteratorPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/iterator/IteratorPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,52 +43,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbstractCreator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbstractFactoryPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BridgePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BridgePattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BuilderPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassAdapter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClientP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Computer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcreteCreator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Delegation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DependencyInjection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FacadePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactoryPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlyWeightPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlyWeightPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectCompositionPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectCompositionPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProgramToInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrototypePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProxyPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticMethod.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;tutorials&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractCreator.executor": "Run",
+    "Application.AbstractFactoryPattern.executor": "Run",
+    "Application.BridgePattern.executor": "Run",
+    "Application.BridgePattern2.executor": "Run",
+    "Application.BuilderPattern.executor": "Run",
+    "Application.ChainResponsibilityPattern.executor": "Run",
+    "Application.ChainResponsibilityPattern2.executor": "Run",
+    "Application.ClassAdapter.executor": "Run",
+    "Application.ClientP.executor": "Run",
+    "Application.Computer.executor": "Run",
+    "Application.ConcreteCreator.executor": "Run",
+    "Application.DecoratorPattern.executor": "Run",
+    "Application.DecoratorPattern2.executor": "Run",
+    "Application.DecoratorPattern3.executor": "Run",
+    "Application.Delegation.executor": "Run",
+    "Application.DependencyInjection.executor": "Run",
+    "Application.FacadePattern.executor": "Run",
+    "Application.FactoryPattern.executor": "Run",
+    "Application.FlyWeightPattern.executor": "Run",
+    "Application.FlyWeightPattern2.executor": "Run",
+    "Application.ObjectCompositionPattern.executor": "Run",
+    "Application.ObjectCompositionPattern2.executor": "Run",
+    "Application.ProgramToInterface.executor": "Run",
+    "Application.PrototypePattern.executor": "Run",
+    "Application.ProxyPattern.executor": "Run",
+    "Application.StaticMethod.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tutorials",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProxyPattern">
-    <configuration name="DecoratorPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.decorator.DecoratorPattern3" />
+  <component name="RunManager" selected="Application.ChainResponsibilityPattern2">
+    <configuration name="ChainResponsibilityPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.chainOfResponsibility.ChainResponsibilityPattern" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.structural.decorator.*" />
+          <option name="PATTERN" value="designPatterns.behavioural.chainOfResponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacadePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.facade.FacadePattern" />
+    <configuration name="ChainResponsibilityPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.chainOfResponsibility.ChainResponsibilityPattern2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.structural.facade.*" />
+          <option name="PATTERN" value="designPatterns.behavioural.chainOfResponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainResponsibilityPattern2" />
+        <item itemvalue="Application.ChainResponsibilityPattern" />
         <item itemvalue="Application.ProxyPattern" />
         <item itemvalue="Application.FlyWeightPattern2" />
         <item itemvalue="Application.FlyWeightPattern" />
-        <item itemvalue="Application.FacadePattern" />
-        <item itemvalue="Application.DecoratorPattern3" />
       </list>
     </recent_temporary>
   </component>
