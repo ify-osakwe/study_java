@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/chainOfResponsibility/ChainResponsibilityPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/chainOfResponsibility/ChainResponsibilityPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/command/CommandPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/command/CommandPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,8 @@
     "Application.ChainResponsibilityPattern2.executor": "Run",
     "Application.ClassAdapter.executor": "Run",
     "Application.ClientP.executor": "Run",
+    "Application.CommandPattern.executor": "Run",
+    "Application.CommandPattern2.executor": "Run",
     "Application.Computer.executor": "Run",
     "Application.ConcreteCreator.executor": "Run",
     "Application.DecoratorPattern.executor": "Run",
@@ -84,7 +86,7 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChainResponsibilityPattern2">
+  <component name="RunManager" selected="Application.CommandPattern2">
     <configuration name="ChainResponsibilityPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.chainOfResponsibility.ChainResponsibilityPattern" />
       <module name="study_java" />
@@ -111,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyWeightPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.flyweight.FlyWeightPattern" />
+    <configuration name="CommandPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.command.CommandPattern" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.structural.flyweight.*" />
+          <option name="PATTERN" value="designPatterns.behavioural.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyWeightPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.structural.flyweight.FlyWeightPattern2" />
+    <configuration name="CommandPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.command.CommandPattern2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.structural.flyweight.*" />
+          <option name="PATTERN" value="designPatterns.behavioural.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandPattern2" />
+        <item itemvalue="Application.CommandPattern" />
         <item itemvalue="Application.ChainResponsibilityPattern2" />
         <item itemvalue="Application.ChainResponsibilityPattern" />
         <item itemvalue="Application.ProxyPattern" />
-        <item itemvalue="Application.FlyWeightPattern2" />
-        <item itemvalue="Application.FlyWeightPattern" />
       </list>
     </recent_temporary>
   </component>
