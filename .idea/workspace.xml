@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/mediator/MediatorPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/mediator/MediatorPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/memento/MementoPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/memento/MementoPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Application.IteratorPattern2.executor": "Run",
     "Application.MediatorPattern.executor": "Run",
     "Application.MediatorPattern2.executor": "Run",
+    "Application.MementoPattern.executor": "Run",
     "Application.ObjectCompositionPattern.executor": "Run",
     "Application.ObjectCompositionPattern2.executor": "Run",
     "Application.ProgramToInterface.executor": "Run",
@@ -91,20 +92,7 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MediatorPattern2">
-    <configuration name="InterpreterPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.interpreter.InterpreterPattern" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.interpreter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MementoPattern">
     <configuration name="IteratorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.iterator.IteratorPattern" />
       <module name="study_java" />
@@ -157,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MementoPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.memento.MementoPattern" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.behavioural.memento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoPattern" />
         <item itemvalue="Application.MediatorPattern2" />
         <item itemvalue="Application.MediatorPattern" />
         <item itemvalue="Application.IteratorPattern2" />
         <item itemvalue="Application.IteratorPattern" />
-        <item itemvalue="Application.InterpreterPattern" />
       </list>
     </recent_temporary>
   </component>
