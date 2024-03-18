@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class ReadInput {
     public static void main(String[] args) {
-        int currentYear = 2023;
-        String usersDateOfBirth = "1999";
+        int currentYear = 2024;
+        //String usersDateOfBirth = "1999";
 
         try {
             System.out.println(getInputFromConsole(currentYear));
@@ -27,10 +27,10 @@ public class ReadInput {
 
     public static String getInputFromScanner(int currentYear) {
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Hi, What's your name? ");
         String name = scanner.nextLine();
         System.out.println("Hi " + name + ", Thanks for taking the course");
-
         System.out.println("What year were you born? ");
 
         boolean validDob = false;

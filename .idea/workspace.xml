@@ -6,21 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/ForLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/ForLoop1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/Operators2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/Operators2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/inputOutput/ReadInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/inputOutput/ReadInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +63,8 @@
     "Application.DecoratorPattern3.executor": "Run",
     "Application.Delegation.executor": "Run",
     "Application.DependencyInjection.executor": "Run",
+    "Application.Exercise16.executor": "Run",
+    "Application.Exercise21.executor": "Run",
     "Application.FacadePattern.executor": "Run",
     "Application.FactoryPattern.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
@@ -103,6 +91,7 @@
     "Application.ProgramToInterface.executor": "Run",
     "Application.PrototypePattern.executor": "Run",
     "Application.ProxyPattern.executor": "Run",
+    "Application.ReadInput.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
@@ -124,13 +113,13 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Switch2">
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method2" />
+  <component name="RunManager" selected="Application.Exercise21">
+    <configuration name="Exercise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise16" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
+          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method4" />
+    <configuration name="Exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise21" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
+          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method9" />
+    <configuration name="ReadInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
+          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise21" />
+        <item itemvalue="Application.Exercise16" />
+        <item itemvalue="Application.ReadInput" />
         <item itemvalue="Application.Switch2" />
         <item itemvalue="Application.Method5" />
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method4" />
-        <item itemvalue="Application.Method9" />
       </list>
     </recent_temporary>
   </component>
