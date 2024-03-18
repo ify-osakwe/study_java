@@ -35,18 +35,12 @@ public class Method3 {
     }
 
     public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
-        if (barking && hourOfDay > 0 && hourOfDay < 8) {
-            return true;
-        }
-        if (barking && hourOfDay > 22) {
-            return true;
-        }
-        if (barking && hourOfDay > 23) {
-            return false;
-        }
         if (hourOfDay < 0 || hourOfDay > 23) {
             return false;
         }
-        return false;
+        if (barking && hourOfDay < 8) {
+            return true;
+        }
+        return barking && hourOfDay > 22;
     }
 }

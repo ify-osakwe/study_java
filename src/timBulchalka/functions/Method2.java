@@ -2,25 +2,17 @@ package timBulchalka.functions;
 
 public class Method2 {
     public static void main(String[] args) {
-        // display result for the following scores: 1500, 1000, 500, 100, 25
+        displayHighScorePosition("Tim", calculateHighScorePosition(1500));
 
-        int aScore = calculateHighScorePosition(1500);
-        displayHighScorePosition("Tim", aScore);
+        displayHighScorePosition("Kim", calculateHighScorePosition(1000));
 
-        int bScore = calculateHighScorePosition(1000);
-        displayHighScorePosition("Kim", bScore);
+        displayHighScorePosition("Bibi", calculateHighScorePosition(900));
 
-        int bbScore = calculateHighScorePosition(900);
-        displayHighScorePosition("Bibi", bbScore);
+        displayHighScorePosition("Cece", calculateHighScorePosition(500));
 
-        int cScore = calculateHighScorePosition(500);
-        displayHighScorePosition("Cece", cScore);
+        displayHighScorePosition("Didi", calculateHighScorePosition(100));
 
-        int dScore = calculateHighScorePosition(100);
-        displayHighScorePosition("Didi", dScore);
-
-        int eScore = calculateHighScorePosition(25);
-        displayHighScorePosition("Efe", eScore);
+        displayHighScorePosition("Efe", calculateHighScorePosition(25));
 
     }
 

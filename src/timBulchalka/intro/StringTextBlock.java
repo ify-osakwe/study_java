@@ -2,6 +2,7 @@ package timBulchalka.intro;
 
 public class StringTextBlock {
     public static void main(String[] args) {
+        char bullet = '\u2022';
         String bulletIt = "Print a bulleted list:\n" +
                 "\t\u2022 First Point\n" +
                 "\t\u2022 Second Point";

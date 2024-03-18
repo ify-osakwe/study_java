@@ -17,6 +17,9 @@ public class PrimitiveType3 {
         char bUnicode = 82; // Letter R
         System.out.println(bUnicode);
 
+        char cUnicode = '\u0110';
+        System.out.println(cUnicode);
+
         /*
          * A boolean value allows for two opposite choices.
          * In Java, a boolean can be set to two values - true or false

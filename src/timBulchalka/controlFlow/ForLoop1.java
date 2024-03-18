@@ -14,12 +14,12 @@ public class ForLoop1 {
             System.out.println(counter);
         }
 
-        for (double rate=2.0; rate<=5.0; rate++) {
+        for (double rate = 2.0; rate <= 5.0; rate++) {
             double interestAmount = calculateInterest(10000.0, rate);
             System.out.println("10,000 at " + rate + "% interest = " + interestAmount);
         }
 
-        for (int i =0 ; i<10;i++) {
+        for (int i = 0; i < 10; i++) {
             if (i > 6) break;
             System.out.println("index " + i);
         }

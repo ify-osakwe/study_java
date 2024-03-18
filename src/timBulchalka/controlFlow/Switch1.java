@@ -3,14 +3,10 @@ package timBulchalka.controlFlow;
 public class Switch1 {
     public static void main(String[] args) {
         int switchValue = getACode();
-        /*
-         * The traditional switch statement
-         *
-         * Valid switch value types:
-         * byte, short, int, char
-         * Byte, Short, Integer, Character
-         * String, enum
-         */
+
+        // The traditional switch statement
+        // Valid switch value types:
+        // byte, short, int, char, Byte, Short, Integer, Character, String, enum
         switch (switchValue) {
             case 1:
                 System.out.println("Value is 1");

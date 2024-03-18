@@ -4,12 +4,14 @@ public class Operators2 {
     public static void main(String[] args) {
         // Ternary Operator
         // a short form "if (statement) this else that"
-        String makeOfCar = modelCar();
-        boolean isAVolks = makeOfCar.equals("Volswagen") ? false : true;
+        String makeOfCar = modelCar(0);
+        boolean isAVolks = makeOfCar.equals("Volkswagen") ? false : true;
         System.out.println(isAVolks);
     }
 
-    static String modelCar() {
-        return "Volks";
+    static String modelCar(int code) {
+        if (code == 0) return "";
+        else return "Volks";
+
     }
 }

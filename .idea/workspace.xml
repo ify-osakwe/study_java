@@ -6,7 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioural/visitor/VisitorPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/behavioural/visitor/VisitorPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/ForLoop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/ForLoop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/controlFlow/Switch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/functions/Method9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/functions/Method9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/Operators2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/Operators2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/PrimitiveType3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -67,21 +81,32 @@
     "Application.FactoryPattern.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
     "Application.FlyWeightPattern2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
     "Application.MediatorPattern.executor": "Run",
     "Application.MediatorPattern2.executor": "Run",
     "Application.MementoPattern.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.Method3.executor": "Run",
+    "Application.Method4.executor": "Run",
+    "Application.Method5.executor": "Run",
+    "Application.Method7.executor": "Run",
+    "Application.Method8.executor": "Run",
+    "Application.Method9.executor": "Run",
     "Application.ObjectCompositionPattern.executor": "Run",
     "Application.ObjectCompositionPattern2.executor": "Run",
     "Application.ObserverPattern.executor": "Run",
+    "Application.PrimitiveType.executor": "Run",
+    "Application.PrimitiveType3.executor": "Run",
     "Application.ProgramToInterface.executor": "Run",
     "Application.PrototypePattern.executor": "Run",
     "Application.ProxyPattern.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
+    "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
     "Application.TemplateMethodPattern2.executor": "Run",
     "Application.VisitorPattern.executor": "Run",
@@ -91,7 +116,7 @@
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,13 +124,13 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VisitorPattern2">
-    <configuration name="StrategyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.strategy.StrategyPattern" />
+  <component name="RunManager" selected="Application.Switch2">
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.strategy.*" />
+          <option name="PATTERN" value="timBulchalka.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateMethodPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.templateMethod.TemplateMethodPattern" />
+    <configuration name="Method4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method4" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.templateMethod.*" />
+          <option name="PATTERN" value="timBulchalka.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateMethodPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.templateMethod.TemplateMethodPattern2" />
+    <configuration name="Method5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method5" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.templateMethod.*" />
+          <option name="PATTERN" value="timBulchalka.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisitorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.visitor.VisitorPattern" />
+    <configuration name="Method9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method9" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.visitor.*" />
+          <option name="PATTERN" value="timBulchalka.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisitorPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.behavioural.visitor.VisitorPattern2" />
+    <configuration name="Switch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.Switch2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.behavioural.visitor.*" />
+          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VisitorPattern2" />
-        <item itemvalue="Application.VisitorPattern" />
-        <item itemvalue="Application.TemplateMethodPattern2" />
-        <item itemvalue="Application.TemplateMethodPattern" />
-        <item itemvalue="Application.StrategyPattern" />
+        <item itemvalue="Application.Switch2" />
+        <item itemvalue="Application.Method5" />
+        <item itemvalue="Application.Method2" />
+        <item itemvalue="Application.Method4" />
+        <item itemvalue="Application.Method9" />
       </list>
     </recent_temporary>
   </component>
