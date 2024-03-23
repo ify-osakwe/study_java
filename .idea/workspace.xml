@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/inputOutput/ReadInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/inputOutput/ReadInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/intro/StringTextBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Application.BridgePattern.executor": "Run",
     "Application.BridgePattern2.executor": "Run",
     "Application.BuilderPattern.executor": "Run",
+    "Application.CarMain.executor": "Run",
     "Application.ChainResponsibilityPattern.executor": "Run",
     "Application.ChainResponsibilityPattern2.executor": "Run",
     "Application.ClassAdapter.executor": "Run",
@@ -65,6 +66,12 @@
     "Application.DependencyInjection.executor": "Run",
     "Application.Exercise16.executor": "Run",
     "Application.Exercise21.executor": "Run",
+    "Application.Exercise30.executor": "Run",
+    "Application.Exercise31.executor": "Run",
+    "Application.Exercise32.executor": "Debug",
+    "Application.Exercise34.executor": "Run",
+    "Application.Exercise35.executor": "Run",
+    "Application.Exercise36.executor": "Run",
     "Application.FacadePattern.executor": "Run",
     "Application.FactoryPattern.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
@@ -95,6 +102,7 @@
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
+    "Application.StringFormatting.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
     "Application.TemplateMethodPattern2.executor": "Run",
@@ -113,9 +121,9 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise21">
-    <configuration name="Exercise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise16" />
+  <component name="RunManager" selected="Application.Exercise37">
+    <configuration name="Exercise32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise32" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise21" />
+    <configuration name="Exercise34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise34" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -140,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.Method5" />
+    <configuration name="Exercise35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise35" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.functions.*" />
+          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.inputOutput.ReadInput" />
+    <configuration name="Exercise36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise36" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.inputOutput.*" />
+          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.controlFlow.Switch2" />
+    <configuration name="Exercise37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise37" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.controlFlow.*" />
+          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise21" />
-        <item itemvalue="Application.Exercise16" />
-        <item itemvalue="Application.ReadInput" />
-        <item itemvalue="Application.Switch2" />
-        <item itemvalue="Application.Method5" />
+        <item itemvalue="Application.Exercise37" />
+        <item itemvalue="Application.Exercise36" />
+        <item itemvalue="Application.Exercise35" />
+        <item itemvalue="Application.Exercise34" />
+        <item itemvalue="Application.Exercise32" />
       </list>
     </recent_temporary>
   </component>
