@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstract01.executor": "Run",
     "Application.AbstractCreator.executor": "Run",
     "Application.AbstractFactoryPattern.executor": "Run",
     "Application.Array01.executor": "Run",
@@ -84,11 +85,13 @@
     "Application.Exercise41.executor": "Run",
     "Application.Exercise41B.executor": "Run",
     "Application.Exercise45.executor": "Run",
+    "Application.Exercise46.executor": "Run",
     "Application.FacadePattern.executor": "Run",
     "Application.FactoryPattern.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
     "Application.FlyWeightPattern2.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Interface01.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
@@ -138,7 +141,20 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise46">
+  <component name="RunManager" selected="Application.Interface01">
+    <configuration name="Abstract01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Abstract01" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timBulchalka.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Enum01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Enum01" />
       <module name="study_java" />
@@ -178,25 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.javaDataStructures.list.List03" />
+    <configuration name="Interface01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Interface01" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.javaDataStructures.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.javaDataStructures.list.List05" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timBulchalka.javaDataStructures.list.*" />
+          <option name="PATTERN" value="timBulchalka.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interface01" />
+        <item itemvalue="Application.Abstract01" />
         <item itemvalue="Application.Exercise46" />
         <item itemvalue="Application.Exercise45" />
         <item itemvalue="Application.Enum01" />
-        <item itemvalue="Application.List05" />
-        <item itemvalue="Application.List03" />
       </list>
     </recent_temporary>
   </component>
