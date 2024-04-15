@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timBulchalka/UtilsX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/UtilsX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +91,15 @@
     "Application.FactoryPattern.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
     "Application.FlyWeightPattern2.executor": "Run",
+    "Application.Gen01.executor": "Run",
+    "Application.Gen02.executor": "Run",
+    "Application.Gen03.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Interface01.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
+    "Application.Lambda00.executor": "Run",
     "Application.List01.executor": "Run",
     "Application.List03.executor": "Run",
     "Application.List05.executor": "Run",
@@ -108,6 +113,10 @@
     "Application.Method7.executor": "Run",
     "Application.Method8.executor": "Run",
     "Application.Method9.executor": "Run",
+    "Application.Nested00.executor": "Run",
+    "Application.Nested01.executor": "Run",
+    "Application.Nested02.executor": "Run",
+    "Application.Nested04.executor": "Run",
     "Application.ObjectCompositionPattern.executor": "Run",
     "Application.ObjectCompositionPattern2.executor": "Run",
     "Application.ObserverPattern.executor": "Run",
@@ -133,7 +142,7 @@
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -141,9 +150,22 @@
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Interface01">
-    <configuration name="Abstract01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Abstract01" />
+  <component name="RunManager" selected="Application.Lambda00">
+    <configuration name="Lambda00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.functions.lambdas.Lambda00" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timBulchalka.functions.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nested00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Nested00" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enum01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Enum01" />
+    <configuration name="Nested01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Nested01" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -168,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise45" />
+    <configuration name="Nested02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Nested02" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
+          <option name="PATTERN" value="timBulchalka.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,21 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.codingExercise.Exercise46" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timBulchalka.codingExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Interface01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Interface01" />
+    <configuration name="Nested04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.classes.Nested04" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -209,20 +218,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interface01" />
-        <item itemvalue="Application.Abstract01" />
-        <item itemvalue="Application.Exercise46" />
-        <item itemvalue="Application.Exercise45" />
-        <item itemvalue="Application.Enum01" />
+        <item itemvalue="Application.Lambda00" />
+        <item itemvalue="Application.Nested04" />
+        <item itemvalue="Application.Nested02" />
+        <item itemvalue="Application.Nested01" />
+        <item itemvalue="Application.Nested00" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
