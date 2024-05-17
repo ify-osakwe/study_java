@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/UtilsX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/UtilsX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBulchalka/utility/Regex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBulchalka/utility/Regex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
         <option value="Interface" />
         <option value="Record" />
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +53,7 @@
     "Application.Array01.executor": "Run",
     "Application.Array02.executor": "Run",
     "Application.Array03.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
     "Application.BridgePattern.executor": "Run",
     "Application.BridgePattern2.executor": "Run",
     "Application.BuilderPattern.executor": "Run",
@@ -143,6 +144,8 @@
     "Application.QA4.executor": "Run",
     "Application.ReadInput.executor": "Run",
     "Application.Regex00.executor": "Run",
+    "Application.Regex03.executor": "Run",
+    "Application.Regex04.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
@@ -150,31 +153,50 @@
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
     "Application.TemplateMethodPattern2.executor": "Run",
+    "Application.UtilitiesMain.executor": "Run",
     "Application.VisitorPattern.executor": "Run",
     "Application.VisitorPattern2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BankAccountParameterizedTest.deposit.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.UtilitiesTest.everyNthChar.executor": "Run",
+    "JUnit.UtilitiesTest.executor": "Run",
+    "JUnit.UtilitiesTest.removePairs.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/designPatterns/structural/facade",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/designPatterns/structural/facade" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="timBulchalka.unitTesting" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Regex03">
-    <configuration name="DateTime02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.utility.DateTime02" />
+  <component name="RunManager" selected="JUnit.UtilitiesParameterizedTest">
+    <configuration name="UtilitiesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.unitTesting.UtilitiesMain" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.utility.*" />
+          <option name="PATTERN" value="timBulchalka.unitTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,65 +204,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTime03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.utility.DateTime03" />
+    <configuration name="UtilitiesParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.utility.*" />
+          <option name="PATTERN" value="timBulchalka.unitTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="timBulchalka.unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.unitTesting.UtilitiesParameterizedTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Locale00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.utility.Locale00" />
+    <configuration name="UtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.utility.*" />
+          <option name="PATTERN" value="timBulchalka.unitTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="timBulchalka.unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.unitTesting.UtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regex00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.utility.Regex00" />
+    <configuration name="UtilitiesTest.everyNthChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.utility.*" />
+          <option name="PATTERN" value="timBulchalka.unitTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="timBulchalka.unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.unitTesting.UtilitiesTest" />
+      <option name="METHOD_NAME" value="everyNthChar" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBulchalka.utility.Regex03" />
+    <configuration name="UtilitiesTest.removePairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBulchalka.utility.*" />
+          <option name="PATTERN" value="timBulchalka.unitTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="timBulchalka.unitTesting" />
+      <option name="MAIN_CLASS_NAME" value="timBulchalka.unitTesting.UtilitiesTest" />
+      <option name="METHOD_NAME" value="removePairs" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Regex03" />
-        <item itemvalue="Application.Regex00" />
-        <item itemvalue="Application.Locale00" />
-        <item itemvalue="Application.DateTime02" />
-        <item itemvalue="Application.DateTime03" />
+        <item itemvalue="JUnit.UtilitiesParameterizedTest" />
+        <item itemvalue="JUnit.UtilitiesTest" />
+        <item itemvalue="JUnit.UtilitiesTest.everyNthChar" />
+        <item itemvalue="JUnit.UtilitiesTest.removePairs" />
+        <item itemvalue="Application.UtilitiesMain" />
       </list>
     </recent_temporary>
   </component>
