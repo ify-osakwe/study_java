@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_java.iml" afterDir="false" />
-    </list>
+    <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,6 +156,7 @@
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.BankAccountParameterizedTest.deposit.executor": "Run",
     "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.UtilitiesParameterizedTest.executor": "Run",
     "JUnit.UtilitiesTest.everyNthChar.executor": "Run",
     "JUnit.UtilitiesTest.executor": "Run",
     "JUnit.UtilitiesTest.removePairs.executor": "Run",
