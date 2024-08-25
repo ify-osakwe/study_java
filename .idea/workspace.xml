@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
     "Application.ChainResponsibilityPattern.executor": "Run",
     "Application.ChainResponsibilityPattern2.executor": "Run",
     "Application.ChallengeStreams.executor": "Run",
+    "Application.CheckDuplicateInCSV.executor": "Run",
     "Application.ClassAdapter.executor": "Run",
     "Application.ClientP.executor": "Run",
     "Application.CommandPattern.executor": "Run",
@@ -107,11 +109,15 @@
     "Application.Gen02.executor": "Run",
     "Application.Gen03.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.HttpClientGet.executor": "Run",
+    "Application.HttpExample.executor": "Run",
+    "Application.HttpExamplePost.executor": "Run",
     "Application.Interface01.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
     "Application.Lambda00.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.List01.executor": "Run",
     "Application.List03.executor": "Run",
     "Application.List05.executor": "Run",
@@ -129,6 +135,8 @@
     "Application.Method7.executor": "Run",
     "Application.Method8.executor": "Run",
     "Application.Method9.executor": "Run",
+    "Application.MultiThreadSimpleClient.executor": "Run",
+    "Application.MultiThreadSimpleServer.executor": "Run",
     "Application.Nested00.executor": "Run",
     "Application.Nested01.executor": "Run",
     "Application.Nested02.executor": "Run",
@@ -152,6 +160,9 @@
     "Application.Regex00.executor": "Run",
     "Application.Regex03.executor": "Run",
     "Application.Regex04.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Application.SimpleHttpServer.executor": "Run",
+    "Application.SimpleServer.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
@@ -183,15 +194,16 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/timBuchalka/concurrency",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/timBuchalka/networking",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.customizations"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/timBuchalka/networking" />
       <recent name="$PROJECT_DIR$/src/timBuchalka/concurrency" />
       <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/src/timBuchalka/inputOutput/files" />
@@ -204,13 +216,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Thread05">
-    <configuration name="ReadTextFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBuchalka.inputOutput.files.ReadTextFromFile" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.searching.BinarySearch" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBuchalka.inputOutput.files.*" />
+          <option name="PATTERN" value="dsa.notes.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBuchalka.concurrency.Thread00" />
+    <configuration name="CheckDuplicateInCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.CheckDuplicateInCSV" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBuchalka.concurrency.*" />
+          <option name="PATTERN" value="playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBuchalka.concurrency.Thread01" />
+    <configuration name="HttpClientGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBuchalka.networking.HttpClientGet" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBuchalka.concurrency.*" />
+          <option name="PATTERN" value="timBuchalka.networking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBuchalka.concurrency.Thread03" />
+    <configuration name="HttpExamplePost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timBuchalka.networking.HttpExamplePost" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBuchalka.concurrency.*" />
+          <option name="PATTERN" value="timBuchalka.networking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timBuchalka.concurrency.Thread05" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.searching.LinearSearch" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timBuchalka.concurrency.*" />
+          <option name="PATTERN" value="dsa.notes.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Thread05" />
-        <item itemvalue="Application.Thread03" />
-        <item itemvalue="Application.Thread01" />
-        <item itemvalue="Application.Thread00" />
-        <item itemvalue="Application.ReadTextFromFile" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.CheckDuplicateInCSV" />
+        <item itemvalue="Application.HttpClientGet" />
+        <item itemvalue="Application.HttpExamplePost" />
       </list>
     </recent_temporary>
   </component>
