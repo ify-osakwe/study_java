@@ -27,7 +27,7 @@ public class DateTime01 {
 
         LocalTime sevenThirty = LocalTime.of(7, 30, 15);
         System.out.println(sevenThirty);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         LocalTime sevenPM = LocalTime.parse("19:00");
         LocalTime sevenThirtyPM = LocalTime.parse("19:30:15.1000");

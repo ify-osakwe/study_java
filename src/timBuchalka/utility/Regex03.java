@@ -30,7 +30,7 @@ public class Regex03 {
                             mr.group(2));
                 }
         );
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         Pattern emailPattern = Pattern.compile(
                 "([\\w.-]+)@(([\\w-]+\\.)+[\\w-]{2,})");

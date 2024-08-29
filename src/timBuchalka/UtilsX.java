@@ -12,7 +12,11 @@ public class UtilsX {
         return newInt;
     }
 
-    public static void newLine() {
+    public static void newLineSpace() {
         System.out.println("\n** ** ** ** ** ** ** ** ** ** **\n");
+    }
+
+    public static void newLinePlain() {
+        System.out.println("\n");
     }
 }

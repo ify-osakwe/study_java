@@ -24,7 +24,7 @@ public class Locale00 {
 
         Locale enIN = new Locale.Builder().setLanguage("en").setRegion("IN").build();
         Locale enNZ = new Locale.Builder().setLanguage("en").setRegion("NZ").build();
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         var dtf =
                 DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM);

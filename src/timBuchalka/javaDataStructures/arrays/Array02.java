@@ -3,7 +3,7 @@ package timBuchalka.javaDataStructures.arrays;
 import java.util.Arrays;
 
 import static timBuchalka.UtilsX.getRandomArray;
-import static timBuchalka.UtilsX.newLine;
+import static timBuchalka.UtilsX.newLineSpace;
 
 public class Array02 {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Array02 {
 
         Arrays.fill(secondArray, 5);
         System.out.println(Arrays.toString(secondArray));
-        newLine();
+        newLineSpace();
 
         int[] thirdArray = getRandomArray(9);
         System.out.println("thirdArray " + Arrays.toString(thirdArray));

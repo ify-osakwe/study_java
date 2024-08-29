@@ -21,7 +21,7 @@ public class DateTime00 {
 
         LocalDate May5 = LocalDate.parse("2022-05-05");
         System.out.println(May5);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         System.out.println(May5.getYear());
         System.out.println(May5.getMonth());
@@ -29,14 +29,14 @@ public class DateTime00 {
         System.out.println(May5.getDayOfMonth());
         System.out.println(May5.getDayOfWeek());
         System.out.println(May5.getDayOfYear());
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         System.out.println(May5.withYear(2000));
         System.out.println(May5.withMonth(3));
         System.out.println(May5.withDayOfMonth(4));
         System.out.println(May5.withDayOfYear(126));
         System.out.println(May5);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         System.out.println(May5.withDayOfYear(126));
         System.out.println(May5.plusYears(1));

@@ -13,7 +13,7 @@ public class Regex00 {
 
         String helloWorld3 = Regex00.format("%s %s", "Hello", "World");
         System.out.println("Using Main.format: " + helloWorld3);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         String testString = "Anyone can Learn abc's, 123's, and any regular expression";
         String replacement = "(-)";
@@ -27,7 +27,7 @@ public class Regex00 {
             String output = testString.replaceFirst(pattern, replacement);
             System.out.println("Pattern: " + pattern + " => " + output);
         }
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         // Song of the Witches in MacBeth, a Play by Shakespeare
         String paragraph = """
@@ -49,7 +49,7 @@ public class Regex00 {
         System.out.println("This paragraph has " + words.length + " words");
         System.out.println(paragraph.replaceAll("[a-zA-Z]+ble",
                 "[GRUB]"));
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         Scanner scanner = new Scanner(paragraph);
         System.out.println(scanner.delimiter());

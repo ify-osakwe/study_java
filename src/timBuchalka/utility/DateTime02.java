@@ -16,14 +16,14 @@ public class DateTime02 {
         //System.setProperty("user.timezone", "America/Los_Angeles");
         System.out.println(ZoneId.systemDefault());
         System.out.println("Number of TZs = " + ZoneId.getAvailableZoneIds().size());
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         ZoneId.getAvailableZoneIds().stream()
                 .filter(s -> s.startsWith("US"))
                 .sorted()
                 .map(ZoneId::of)
                 .forEach(z -> System.out.println(z.getId() + ": " + z.getRules()));
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         Set<String> jdk8Zones = ZoneId.getAvailableZoneIds();
         String[] alternate = TimeZone.getAvailableIDs();
@@ -33,14 +33,14 @@ public class DateTime02 {
         System.out.println("oldWay: " + oldWay);
         ZoneId bet = ZoneId.of("BET", ZoneId.SHORT_IDS);
         System.out.println("BET: " + bet);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         LocalDateTime now = LocalDateTime.now();
         System.out.println(now);
 
         Instant instantNow = Instant.now();
         System.out.println(instantNow);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         for (ZoneId z : List.of(
                 ZoneId.of("Australia/Sydney"),

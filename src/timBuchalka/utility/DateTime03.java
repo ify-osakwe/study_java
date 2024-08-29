@@ -9,7 +9,7 @@ import java.time.temporal.TemporalAdjusters;
 
 public class DateTime03 {
     public static void main(String[] args) {
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
         ZonedDateTime myLocationTime = ZonedDateTime.now();
         System.out.println("My Location Time " + myLocationTime + "\n");
 
@@ -27,7 +27,7 @@ public class DateTime03 {
         ZonedDateTime dobHere = dobSydney.withZoneSameInstant(ZoneId.systemDefault());
         System.out.println("Your kid's birthdate, Here Time = " + dobHere.format(
                 DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM)));
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         ZonedDateTime firstOfMonth = ZonedDateTime.now()
                 .with(TemporalAdjusters.firstDayOfNextMonth());
@@ -43,14 +43,14 @@ public class DateTime03 {
         System.out.println("First of next Month: " + firstOfMonth.format(
                 DateTimeFormatter.ofLocalizedDateTime(FormatStyle.SHORT)));
 
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
         Period timePast = Period.between(LocalDate.EPOCH, dob.toLocalDate());
         System.out.println(timePast);
 
         Duration timeSince =
                 Duration.between(Instant.EPOCH, dob.toInstant(ZoneOffset.UTC));
         System.out.println(timeSince);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         LocalDateTime dob2 = dob.plusYears(2).plusMonths(4)
                 .plusDays(4).plusHours(7).plusMinutes(14)
@@ -65,6 +65,6 @@ public class DateTime03 {
         Duration timeSince2 =
                 Duration.between(Instant.EPOCH, dob2.toInstant(ZoneOffset.UTC));
         System.out.println(timeSince2);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
     }
 }

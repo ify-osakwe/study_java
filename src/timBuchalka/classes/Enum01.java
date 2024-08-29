@@ -22,7 +22,7 @@ public class Enum01 {
             switchDayOfWeek(weekDay);
         }
 
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
         for (Topping topping : Topping.values()) {
             System.out.println(topping.name() + " : " + topping.getPrice());
         }

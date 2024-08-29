@@ -11,17 +11,17 @@ public class Lambda00 {
         var nameList = new ArrayList<>(List.of("alpha", "bravo", "charlie"));
         // - Lambda
         nameList.forEach((s) -> System.out.println(s));
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         nameList.forEach((str) -> {
             char index = str.charAt(0);
             System.out.println(str + " is " + index);
         });
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         // - method reference
         nameList.forEach(System.out::println);
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         int result = calculator((a, b) -> a + b,5, 2);
         var result2 = calculator((a, b) -> a / b, 10.0, 2.5);

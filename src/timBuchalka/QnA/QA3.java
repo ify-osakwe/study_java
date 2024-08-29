@@ -9,7 +9,7 @@ public class QA3 {
 
         System.out.println(minByte + " = minimum Byte");
         System.out.println(maxByte + " = maximum Byte");
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         byte aByte = (byte) (minByte / 2);
         System.out.println("(minByte / 2) = " + aByte);

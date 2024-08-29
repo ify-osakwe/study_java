@@ -17,7 +17,7 @@ public class File00 {
         } catch (IOException e) {
             System.out.println("Oops! runtime exception");
         }
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         for (File f : File.listRoots()) {
             System.out.println(f);

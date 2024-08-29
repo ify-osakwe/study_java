@@ -7,7 +7,7 @@ class Main {
         Record00 record00 = new Record00("Birth", 20);
         System.out.println(record00);
 
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
 //        Record00 record001 = new Record00(30);
 //        System.out.println(record001);

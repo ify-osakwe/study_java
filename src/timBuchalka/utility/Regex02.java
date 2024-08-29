@@ -28,7 +28,7 @@ public class Regex02 {
         System.out.println("Matched on : " +
                 sentence.substring(matcher.start(), matcher.end()));
         System.out.println("Matched on : " + matcher.group());
-        UtilsX.newLine();
+        UtilsX.newLineSpace();
 
         String htmlSnippet = """
                 <H1>My Heading</H1>
