@@ -6,22 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/TestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/QnA/QA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/QnA/QA3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/UtilsX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/UtilsX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/classes/Enum01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/classes/Enum01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/classes/Record00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/classes/Record00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/functions/lambdas/Lambda00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/functions/lambdas/Lambda00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/inputOutput/files/File00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/inputOutput/files/File00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/javaDataStructures/arrays/Array02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/javaDataStructures/arrays/Array02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/DateTime03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/Locale00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/Locale00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/Regex00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/Regex00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/Regex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/Regex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timBuchalka/utility/Regex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timBuchalka/utility/Regex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,171 +45,204 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstract01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbstractCreator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbstractFactoryPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BridgePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BridgePattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BuilderPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CardDeck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChainResponsibilityPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChainResponsibilityPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChallengeStreams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckDuplicateInCSV.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassAdapter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClientP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommandPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommandPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Computer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcreteCreator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTime00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTime02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTime03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorPattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Delegation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DependencyInjection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enum01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise30.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise32.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Exercise34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise36.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise37.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise38.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise38B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise39.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise40.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise41.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise41B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise45.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise46.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FacadePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactoryPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlyWeightPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlyWeightPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gen01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gen02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gen03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HttpClientGet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HttpExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HttpExamplePost.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterpreterPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IteratorPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IteratorPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.List01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.List03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.List05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Locale00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainEnum00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Math01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediatorPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediatorPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MementoPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiThreadSimpleClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiThreadSimpleServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectCompositionPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectCompositionPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObserverPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveType3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProgramToInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrototypePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProxyPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QA2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QA2B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QA3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QA4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadTextFromFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Regex00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Regex03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Regex04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleHttpServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StatePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrategyPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringFormatting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemplateMethodPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemplateMethodPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestBSTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDoublyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestSinglyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread00.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UtilitiesMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VisitorPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VisitorPattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.BankAccountParameterizedTest.deposit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BankAccountTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UtilitiesParameterizedTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UtilitiesTest.everyNthChar.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UtilitiesTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UtilitiesTest.removePairs.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;tutorials&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ifeakachukwuosakwe/Projects/java/study_java/src/timBuchalka/networking&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ABCheck.executor": "Run",
+    "Application.Abstract01.executor": "Run",
+    "Application.AbstractCreator.executor": "Run",
+    "Application.AbstractFactoryPattern.executor": "Run",
+    "Application.AlphabetSearching.executor": "Run",
+    "Application.AlphabetSoup.executor": "Run",
+    "Application.Array01.executor": "Run",
+    "Application.Array02.executor": "Run",
+    "Application.Array03.executor": "Run",
+    "Application.AsciiConvert.executor": "Run",
+    "Application.AsteriskStripper.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BasicRomanNumerals.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BridgePattern.executor": "Run",
+    "Application.BridgePattern2.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BuilderPattern.executor": "Run",
+    "Application.CaesarCipher.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CamelCase.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.CardDeck.executor": "Run",
+    "Application.ChainResponsibilityPattern.executor": "Run",
+    "Application.ChainResponsibilityPattern2.executor": "Run",
+    "Application.ChallengeStreams.executor": "Run",
+    "Application.CheckDuplicateInCSV.executor": "Run",
+    "Application.ClassAdapter.executor": "Run",
+    "Application.ClientP.executor": "Run",
+    "Application.CommandLine.executor": "Run",
+    "Application.CommandPattern.executor": "Run",
+    "Application.CommandPattern2.executor": "Run",
+    "Application.Computer.executor": "Run",
+    "Application.ConcreteCreator.executor": "Run",
+    "Application.ConsonantCount.executor": "Run",
+    "Application.CorrectPath.executor": "Run",
+    "Application.CountingMinutes.executor": "Run",
+    "Application.DashInsert.executor": "Run",
+    "Application.DashInsert2.executor": "Run",
+    "Application.DateTime00.executor": "Run",
+    "Application.DateTime02.executor": "Run",
+    "Application.DateTime03.executor": "Run",
+    "Application.DecoratorPattern.executor": "Run",
+    "Application.DecoratorPattern2.executor": "Run",
+    "Application.DecoratorPattern3.executor": "Run",
+    "Application.Delegation.executor": "Run",
+    "Application.DependencyInjection.executor": "Run",
+    "Application.DistinctCharacter.executor": "Run",
+    "Application.Enum01.executor": "Run",
+    "Application.Exercise1.executor": "Run",
+    "Application.Exercise16.executor": "Run",
+    "Application.Exercise21.executor": "Run",
+    "Application.Exercise30.executor": "Run",
+    "Application.Exercise31.executor": "Run",
+    "Application.Exercise32.executor": "Debug",
+    "Application.Exercise34.executor": "Run",
+    "Application.Exercise35.executor": "Run",
+    "Application.Exercise36.executor": "Run",
+    "Application.Exercise37.executor": "Run",
+    "Application.Exercise38.executor": "Run",
+    "Application.Exercise38B.executor": "Run",
+    "Application.Exercise39.executor": "Run",
+    "Application.Exercise40.executor": "Run",
+    "Application.Exercise41.executor": "Run",
+    "Application.Exercise41B.executor": "Run",
+    "Application.Exercise45.executor": "Run",
+    "Application.Exercise46.executor": "Run",
+    "Application.FacadePattern.executor": "Run",
+    "Application.FactoryPattern.executor": "Run",
+    "Application.File00.executor": "Run",
+    "Application.File01.executor": "Run",
+    "Application.File02.executor": "Run",
+    "Application.File03.executor": "Run",
+    "Application.File04.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FlyWeightPattern.executor": "Run",
+    "Application.FlyWeightPattern2.executor": "Run",
+    "Application.FormattedDivision.executor": "Run",
+    "Application.FormattedNumbers.executor": "Run",
+    "Application.Gen01.executor": "Run",
+    "Application.Gen02.executor": "Run",
+    "Application.Gen03.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HttpClientGet.executor": "Run",
+    "Application.HttpExample.executor": "Run",
+    "Application.HttpExamplePost.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.Interface01.executor": "Run",
+    "Application.InterpreterPattern.executor": "Run",
+    "Application.IteratorPattern.executor": "Run",
+    "Application.IteratorPattern2.executor": "Run",
+    "Application.Lambda00.executor": "Run",
+    "Application.LetterCapitalize.executor": "Run",
+    "Application.LetterChanges.executor": "Run",
+    "Application.LetterCount.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.List01.executor": "Run",
+    "Application.List03.executor": "Run",
+    "Application.List05.executor": "Run",
+    "Application.Locale00.executor": "Run",
+    "Application.LongestWord.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainEnum00.executor": "Run",
+    "Application.Math01.executor": "Run",
+    "Application.MediatorPattern.executor": "Run",
+    "Application.MediatorPattern2.executor": "Run",
+    "Application.MementoPattern.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.Method3.executor": "Run",
+    "Application.Method4.executor": "Run",
+    "Application.Method5.executor": "Run",
+    "Application.Method7.executor": "Run",
+    "Application.Method8.executor": "Run",
+    "Application.Method9.executor": "Run",
+    "Application.MultiThreadSimpleClient.executor": "Run",
+    "Application.MultiThreadSimpleServer.executor": "Run",
+    "Application.Nested00.executor": "Run",
+    "Application.Nested01.executor": "Run",
+    "Application.Nested02.executor": "Run",
+    "Application.Nested04.executor": "Run",
+    "Application.ObjectCompositionPattern.executor": "Run",
+    "Application.ObjectCompositionPattern2.executor": "Run",
+    "Application.ObserverPattern.executor": "Run",
+    "Application.Polymorphism01.executor": "Run",
+    "Application.Polymorphism02.executor": "Run",
+    "Application.PrimitiveType.executor": "Run",
+    "Application.PrimitiveType3.executor": "Run",
+    "Application.ProgramToInterface.executor": "Run",
+    "Application.PrototypePattern.executor": "Run",
+    "Application.ProxyPattern.executor": "Run",
+    "Application.QA2.executor": "Run",
+    "Application.QA2B.executor": "Run",
+    "Application.QA3.executor": "Run",
+    "Application.QA4.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.ReadInput.executor": "Run",
+    "Application.ReadTextFromFile.executor": "Run",
+    "Application.Regex00.executor": "Run",
+    "Application.Regex03.executor": "Run",
+    "Application.Regex04.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SearchingChallenge.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Application.SimpleHttpServer.executor": "Run",
+    "Application.SimpleServer.executor": "Run",
+    "Application.StatePattern.executor": "Run",
+    "Application.StaticMethod.executor": "Run",
+    "Application.StrategyPattern.executor": "Run",
+    "Application.StringChallenge1.executor": "Run",
+    "Application.StringFormatting.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.TemplateMethodPattern.executor": "Run",
+    "Application.TemplateMethodPattern2.executor": "Run",
+    "Application.TestBSTree.executor": "Run",
+    "Application.TestDoublyLinkedList.executor": "Run",
+    "Application.TestHeapMax.executor": "Run",
+    "Application.TestHeapMin.executor": "Run",
+    "Application.TestQueueOnDLL.executor": "Run",
+    "Application.TestSinglyLinkedList.executor": "Run",
+    "Application.TestStack.executor": "Run",
+    "Application.Thread00.executor": "Run",
+    "Application.Thread01.executor": "Run",
+    "Application.Thread03.executor": "Run",
+    "Application.Thread05.executor": "Run",
+    "Application.UsernameValidation.executor": "Run",
+    "Application.UtilitiesMain.executor": "Run",
+    "Application.VisitorPattern.executor": "Run",
+    "Application.VisitorPattern2.executor": "Run",
+    "Application.XandO.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BankAccountParameterizedTest.deposit.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.UtilitiesParameterizedTest.executor": "Run",
+    "JUnit.UtilitiesTest.everyNthChar.executor": "Run",
+    "JUnit.UtilitiesTest.executor": "Run",
+    "JUnit.UtilitiesTest.removePairs.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "tutorials",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/timBuchalka/networking",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/timBuchalka/networking" />
@@ -240,13 +258,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBSTree">
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.sorting.QuickSort" />
+  <component name="RunManager" selected="Application.AsteriskStripper">
+    <configuration name="AsteriskStripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.AsteriskStripper" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.sorting.*" />
+          <option name="PATTERN" value="playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBSTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.tree.TestBSTree" />
+    <configuration name="LetterCapitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterCapitalize" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.tree.*" />
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.linkedlist.TestDoublyLinkedList" />
+    <configuration name="LetterChanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterChanges" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.linkedlist.*" />
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.linkedlist.TestSinglyLinkedList" />
+    <configuration name="LetterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterCount" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.linkedlist.*" />
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.stack.TestStack" />
+    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LongestWord" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.stack.*" />
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestBSTree" />
-        <item itemvalue="Application.TestStack" />
-        <item itemvalue="Application.TestDoublyLinkedList" />
-        <item itemvalue="Application.TestSinglyLinkedList" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.AsteriskStripper" />
+        <item itemvalue="Application.LongestWord" />
+        <item itemvalue="Application.LetterCount" />
+        <item itemvalue="Application.LetterChanges" />
+        <item itemvalue="Application.LetterCapitalize" />
       </list>
     </recent_temporary>
   </component>
