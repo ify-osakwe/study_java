@@ -20,9 +20,9 @@ public class AsteriskStripper {
     public static void main(String[] args) {
         boolean hasStripped = stripAsterisksFromFile(TextInput.file1, TextInput.file2);
         if (hasStripped) {
-            System.out.println("Asterisks removed and output written to " + TextInput.file2);
+            System.out.println("\nAsterisks removed and output written to " + TextInput.file2);
         } else {
-            System.out.println("An error occured");
+            System.out.println("\nAn error occured");
         }
     }
 

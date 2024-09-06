@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/AsteriskStripper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/AsteriskStripper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/asteriskinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskinput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,9 +169,13 @@
     "Application.Nested01.executor": "Run",
     "Application.Nested02.executor": "Run",
     "Application.Nested04.executor": "Run",
+    "Application.NumberEncoding.executor": "Run",
+    "Application.NumberReverse.executor": "Run",
     "Application.ObjectCompositionPattern.executor": "Run",
     "Application.ObjectCompositionPattern2.executor": "Run",
     "Application.ObserverPattern.executor": "Run",
+    "Application.OneDecrement.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.Polymorphism01.executor": "Run",
     "Application.Polymorphism02.executor": "Run",
     "Application.PrimitiveType.executor": "Run",
@@ -181,6 +187,7 @@
     "Application.QA2B.executor": "Run",
     "Application.QA3.executor": "Run",
     "Application.QA4.executor": "Run",
+    "Application.QuestionMarks.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.ReadInput.executor": "Run",
     "Application.ReadTextFromFile.executor": "Run",
@@ -188,11 +195,14 @@
     "Application.Regex03.executor": "Run",
     "Application.Regex04.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.RunLength.executor": "Run",
     "Application.SearchingChallenge.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SimpleClient.executor": "Run",
     "Application.SimpleHttpServer.executor": "Run",
+    "Application.SimplePassword.executor": "Run",
     "Application.SimpleServer.executor": "Run",
+    "Application.SimpleSymbols.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
@@ -236,7 +246,7 @@
     "git-widget-placeholder": "tutorials",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/timBuchalka/networking",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -258,7 +268,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AsteriskStripper">
+  <component name="RunManager" selected="Application.StarRatings">
     <configuration name="AsteriskStripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.AsteriskStripper" />
       <module name="study_java" />
@@ -272,8 +282,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCapitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterCapitalize" />
+    <configuration name="RunLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.RunLength" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -285,8 +295,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterChanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterChanges" />
+    <configuration name="SimplePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SimplePassword" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -298,8 +308,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LetterCount" />
+    <configuration name="SimpleSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SimpleSymbols" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -311,8 +321,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.LongestWord" />
+    <configuration name="StarRatings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StarRatings" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -326,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarRatings" />
         <item itemvalue="Application.AsteriskStripper" />
-        <item itemvalue="Application.LongestWord" />
-        <item itemvalue="Application.LetterCount" />
-        <item itemvalue="Application.LetterChanges" />
-        <item itemvalue="Application.LetterCapitalize" />
+        <item itemvalue="Application.SimpleSymbols" />
+        <item itemvalue="Application.SimplePassword" />
+        <item itemvalue="Application.RunLength" />
       </list>
     </recent_temporary>
   </component>
