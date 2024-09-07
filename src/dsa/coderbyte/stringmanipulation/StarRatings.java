@@ -1,6 +1,6 @@
 package dsa.coderbyte.stringmanipulation;
 
-/****************************************************************
+/*
  *             CODERBYTE STAR RATING CHALLENGE                  *
  *                                                              *
  * Problem Statement                                            *
@@ -42,10 +42,12 @@ public class StarRatings {
     public static String starRating(String str) {
         double rating = Double.parseDouble(str);
         rating = Math.round(rating * 2) / 2.0; // Round the rating to the nearest half
+        System.out.println("rating: " + rating);
         StringBuilder result = new StringBuilder();
 
         // Convert the rating to stars
         for (int i = 1; i <= 5; i++) {
+            System.out.println("rating inside for-loop : "+ rating);
             if (rating >= 1.0) {
                 result.append("full ");
                 rating -= 1.0;

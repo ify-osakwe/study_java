@@ -80,9 +80,7 @@ public class Calculator {
         if (op2 == '(' || op2 == ')') {
             return false;
         }
-//        if ((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-')) {
-//            return false;
-//        }
+//      if ((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-')) return false;
         return (op1 != '*' && op1 != '/') || (op2 != '+' && op2 != '-');
     }
 

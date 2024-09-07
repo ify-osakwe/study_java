@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/AsteriskStripper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/AsteriskStripper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/StarRatings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/StarRatings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/playground/asteriskinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskinput.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" afterDir="false" />
     </list>
@@ -203,11 +204,15 @@
     "Application.SimplePassword.executor": "Run",
     "Application.SimpleServer.executor": "Run",
     "Application.SimpleSymbols.executor": "Run",
+    "Application.StarRatings.executor": "Run",
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
     "Application.StringChallenge1.executor": "Run",
+    "Application.StringChanges.executor": "Run",
     "Application.StringFormatting.executor": "Run",
+    "Application.StringScramble.executor": "Run",
+    "Application.StringZigZag.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
     "Application.TemplateMethodPattern2.executor": "Run",
@@ -268,52 +273,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StarRatings">
+  <component name="RunManager" selected="Application.StringZigZag">
     <configuration name="AsteriskStripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.AsteriskStripper" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="playground.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.RunLength" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimplePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SimplePassword" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SimpleSymbols" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,13 +300,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringChanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringChanges" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringScramble" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringZigZag" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.coderbyte.stringmanipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StarRatings" />
+        <item itemvalue="Application.StringZigZag" />
         <item itemvalue="Application.AsteriskStripper" />
-        <item itemvalue="Application.SimpleSymbols" />
-        <item itemvalue="Application.SimplePassword" />
-        <item itemvalue="Application.RunLength" />
+        <item itemvalue="Application.StringScramble" />
+        <item itemvalue="Application.StringChanges" />
+        <item itemvalue="Application.StarRatings" />
       </list>
     </recent_temporary>
   </component>
