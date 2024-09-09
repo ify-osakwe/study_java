@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/StarRatings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/StarRatings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/playground/asteriskinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskinput.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" afterDir="false" />
     </list>
@@ -213,6 +211,7 @@
     "Application.StringFormatting.executor": "Run",
     "Application.StringScramble.executor": "Run",
     "Application.StringZigZag.executor": "Run",
+    "Application.SwapCase.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
     "Application.TemplateMethodPattern2.executor": "Run",
@@ -227,10 +226,13 @@
     "Application.Thread01.executor": "Run",
     "Application.Thread03.executor": "Run",
     "Application.Thread05.executor": "Run",
+    "Application.TimeConvert.executor": "Run",
     "Application.UsernameValidation.executor": "Run",
     "Application.UtilitiesMain.executor": "Run",
     "Application.VisitorPattern.executor": "Run",
     "Application.VisitorPattern2.executor": "Run",
+    "Application.VowelCount.executor": "Run",
+    "Application.WordCount.executor": "Run",
     "Application.XandO.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.BankAccountParameterizedTest.deposit.executor": "Run",
@@ -273,7 +275,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringZigZag">
+  <component name="RunManager" selected="Application.WordCount">
     <configuration name="AsteriskStripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.AsteriskStripper" />
       <module name="study_java" />
@@ -287,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarRatings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StarRatings" />
+    <configuration name="SwapCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SwapCase" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -300,8 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringChanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringChanges" />
+    <configuration name="TimeConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.TimeConvert" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -313,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringScramble" />
+    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.VowelCount" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -326,8 +328,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.StringZigZag" />
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.WordCount" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -341,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringZigZag" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.VowelCount" />
         <item itemvalue="Application.AsteriskStripper" />
-        <item itemvalue="Application.StringScramble" />
-        <item itemvalue="Application.StringChanges" />
-        <item itemvalue="Application.StarRatings" />
+        <item itemvalue="Application.TimeConvert" />
+        <item itemvalue="Application.SwapCase" />
       </list>
     </recent_temporary>
   </component>
