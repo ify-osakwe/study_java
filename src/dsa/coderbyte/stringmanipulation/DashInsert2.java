@@ -17,11 +17,6 @@ package dsa.coderbyte.stringmanipulation;
  *                                                              *
  * Input 2: 56647304                                            *
  * Output 2: 56*6*47-304                                        *
- *                                                              *
- * Solution Efficiency                                          *
- * The user scored higher than 36.2% of users who solved this   *
- * challenge.                                                   *
- *                                                              *
  ***************************************************************/
 
 public class DashInsert2 {

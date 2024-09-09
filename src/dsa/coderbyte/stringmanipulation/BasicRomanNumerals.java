@@ -46,15 +46,15 @@ public class BasicRomanNumerals {
         romanMap.put('M', 1000);
 
         int result = 0;
-        int n = str.length();
+        int stringLength = str.length();
 
         // Loop through the characters of the Roman numeral string
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < stringLength; i++) {
             // Get the value of the current Roman numeral
             int currentVal = romanMap.get(str.charAt(i));
 
             // Check if the next Roman numeral is larger (for subtraction cases)
-            if (i + 1 < n && romanMap.get(str.charAt(i + 1)) > currentVal) {
+            if (i + 1 < stringLength && romanMap.get(str.charAt(i + 1)) > currentVal) {
                 // Subtract the current value from the result
                 result -= currentVal;
             } else {

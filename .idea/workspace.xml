@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/asteriskinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskinput.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/BasicRomanNumerals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/BasicRomanNumerals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CamelCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CamelCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CorrectPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CorrectPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CountingMinutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/CountingMinutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/DashInsert2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/coderbyte/stringmanipulation/DashInsert2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +278,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordCount">
+  <component name="RunManager" selected="Application.CountingMinutes">
     <configuration name="AsteriskStripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.AsteriskStripper" />
       <module name="study_java" />
@@ -289,8 +292,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.SwapCase" />
+    <configuration name="CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.CamelCase" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -302,8 +305,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.TimeConvert" />
+    <configuration name="CorrectPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.CorrectPath" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -315,8 +318,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.VowelCount" />
+    <configuration name="CountingMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.coderbyte.stringmanipulation.CountingMinutes" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -343,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.VowelCount" />
+        <item itemvalue="Application.CountingMinutes" />
+        <item itemvalue="Application.CorrectPath" />
+        <item itemvalue="Application.CamelCase" />
         <item itemvalue="Application.AsteriskStripper" />
-        <item itemvalue="Application.TimeConvert" />
-        <item itemvalue="Application.SwapCase" />
+        <item itemvalue="Application.WordCount" />
       </list>
     </recent_temporary>
   </component>

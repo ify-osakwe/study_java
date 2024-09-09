@@ -37,6 +37,7 @@ public class CorrectPath {
         System.out.println(correctPath("drdr??rrddd?")); // Output: drdruurrdddd
     }
 
+    // function not giving correct output
     public static String correctPath(String str) {
         char[] path = str.toCharArray();
         int x = 0, y = 0;

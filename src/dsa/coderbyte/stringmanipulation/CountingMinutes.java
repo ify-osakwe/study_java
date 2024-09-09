@@ -25,9 +25,9 @@ public class CountingMinutes {
 
     public static void main(String[] args) {
         System.out.println(countingMinutesI("12:30pm-12:00am")); // Output: 690
-//        System.out.println(countingMinutesI("1:23am-1:08am"));   // Output: 1425
-//        System.out.println(countingMinutesI("9:00am-10:00am"));  // Output: 60
-//        System.out.println(countingMinutesI("1:00pm-11:00am"));  // Output: 1320
+        System.out.println(countingMinutesI("1:23am-1:08am"));   // Output: 1425
+        System.out.println(countingMinutesI("9:00am-10:00am"));  // Output: 60
+        System.out.println(countingMinutesI("1:00pm-11:00am"));  // Output: 1320
     }
 
     public static int countingMinutesI(String str) {
