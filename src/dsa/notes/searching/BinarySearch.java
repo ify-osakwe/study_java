@@ -35,7 +35,7 @@ public class BinarySearch {
                 lowerBound = midPoint + 1;
             }
         }
-        return 0;
+        return -1;
     }
 
     public static <T extends Comparable<T>> int binarySearch(T[] array, T value) {
@@ -54,6 +54,6 @@ public class BinarySearch {
                 lowerBound = midPoint + 1;
             }
         }
-        return 0;
+        return -1;
     }
 }

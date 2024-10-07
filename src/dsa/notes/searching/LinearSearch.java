@@ -25,7 +25,7 @@ public class LinearSearch {
                 break;
             }
         }
-        return 0;
+        return -1;
     }
 
     public static <T extends Comparable<T>> int linearSearch(T[] collection, T searchValue) {
@@ -38,6 +38,6 @@ public class LinearSearch {
                 break;
             }
         }
-        return 0;
+        return -1;
     }
 }
