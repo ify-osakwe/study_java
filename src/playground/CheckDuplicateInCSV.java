@@ -28,7 +28,7 @@ public class CheckDuplicateInCSV {
                 }
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Error reading file: " + e.getMessage());
         }
 
         if (duplicateCount.isEmpty()) {
