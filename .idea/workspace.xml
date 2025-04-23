@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     &quot;Application.Array01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array02.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayManipulation.executor&quot;: &quot;Run&quot;,
     &quot;Application.AsciiConvert.executor&quot;: &quot;Run&quot;,
     &quot;Application.AsteriskStripper.executor&quot;: &quot;Run&quot;,
@@ -238,6 +240,7 @@
     &quot;Application.VowelCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.XandO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dsa.notes.sorting.BubbleSort.executor&quot;: &quot;Run&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;JUnit.BankAccountParameterizedTest.deposit.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.BankAccountTest.executor&quot;: &quot;Run&quot;,
@@ -266,7 +269,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;code-screenshots&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -286,13 +289,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBSTree">
-    <configuration name="A3April2022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.bcs.A3April2022" />
+  <component name="RunManager" selected="Application.dsa.notes.sorting.BubbleSort">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.array.Array1" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.bcs.*" />
+          <option name="PATTERN" value="dsa.timBulchalka.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.bcs.ArrayManipulation" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.sorting.BubbleSort" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.bcs.*" />
+          <option name="PATTERN" value="dsa.timBulchalka.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,19 +318,6 @@
     </configuration>
     <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.bcs.DecimalToBinary" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="playground.bcs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeePay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.bcs.EmployeePay" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -352,21 +342,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dsa.notes.sorting.BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.sorting.BubbleSort" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.notes.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dsa.notes.sorting.BubbleSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.TestBSTree" />
         <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.ArrayManipulation" />
-        <item itemvalue="Application.EmployeePay" />
-        <item itemvalue="Application.A3April2022" />
+        <item itemvalue="Application.Array1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
@@ -384,6 +387,11 @@
       <workItem from="1741962519150" duration="1530000" />
       <workItem from="1742200635644" duration="1223000" />
       <workItem from="1742211219051" duration="1172000" />
+      <workItem from="1742283936153" duration="736000" />
+      <workItem from="1745272547931" duration="673000" />
+      <workItem from="1745347970021" duration="3749000" />
+      <workItem from="1745390690392" duration="2614000" />
+      <workItem from="1745393410015" duration="307000" />
     </task>
     <servers />
   </component>
