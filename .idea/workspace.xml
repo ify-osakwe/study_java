@@ -7,6 +7,7 @@
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/timBulchalka/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/timBulchalka/sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2RprJRdExY5GpLfTL3ndkkkEcpZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -202,6 +203,7 @@
     &quot;Application.RunLength.executor&quot;: &quot;Run&quot;,
     &quot;Application.SearchingChallenge.executor&quot;: &quot;Run&quot;,
     &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShellSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimpleClient.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimpleHttpServer.executor&quot;: &quot;Run&quot;,
     &quot;Application.SimplePassword.executor&quot;: &quot;Run&quot;,
@@ -289,20 +291,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dsa.notes.sorting.BubbleSort">
-    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.array.Array1" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.timBulchalka.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ShellSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.sorting.BubbleSort" />
       <module name="study_java" />
@@ -316,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.bcs.DecimalToBinary" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.sorting.InsertionSort" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.bcs.*" />
+          <option name="PATTERN" value="dsa.timBulchalka.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,12 +318,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBSTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.tree.TestBSTree" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.sorting.SelectionSort" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.tree.*" />
+          <option name="PATTERN" value="dsa.timBulchalka.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.timBulchalka.sorting.ShellSort" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.timBulchalka.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,19 +359,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.dsa.notes.sorting.BubbleSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TestBSTree" />
-        <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.Array1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -392,6 +394,12 @@
       <workItem from="1745347970021" duration="3749000" />
       <workItem from="1745390690392" duration="2614000" />
       <workItem from="1745393410015" duration="307000" />
+      <workItem from="1745393765200" duration="702000" />
+      <workItem from="1746744082007" duration="3635000" />
+      <workItem from="1746856988981" duration="4295000" />
+      <workItem from="1747167634806" duration="304000" />
+      <workItem from="1747428712260" duration="5291000" />
+      <workItem from="1747941880457" duration="4222000" />
     </task>
     <servers />
   </component>

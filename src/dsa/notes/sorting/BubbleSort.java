@@ -1,5 +1,7 @@
 package dsa.notes.sorting;
 
+import dsa.utils.DsaUtils;
+
 import java.util.Arrays;
 
 public class BubbleSort {
@@ -43,7 +45,7 @@ public class BubbleSort {
         for (int lastUnsortedIndex = array.length - 1; lastUnsortedIndex > 0; lastUnsortedIndex--) {
             for (int index = 0; index < lastUnsortedIndex; index++) {
                 if (array[index] > array[index + 1]) {
-                    swap(array, index, index + 1);
+                    DsaUtils.swapIndex(array, index, index + 1);
                 }
             }
         }
@@ -72,12 +74,12 @@ public class BubbleSort {
         return array;
     }
 
-    public static void swap(int[] array, int i, int j) {
-        if (i == j) {
-            return;
-        }
-        int temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
-    }
+//    public static void swap(int[] array, int i, int j) {
+//        if (i == j) {
+//            return;
+//        }
+//        int temp = array[i];
+//        array[i] = array[j];
+//        array[j] = temp;
+//    }
 }
