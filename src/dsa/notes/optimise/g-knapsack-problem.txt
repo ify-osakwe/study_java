@@ -1,0 +1,28 @@
+
+GREEDY METHOD
+KNAPSACK PROBLEM
+
+function fractionalKnapsack(items, capacity):
+// 1. Prepare
+calculate value-to-weight ratio for each item
+sort items by ratio (highest to lowest)
+
+// 2. Initialize
+totalValue = 0
+remainingCapacity = capacity
+
+// 3. Loop through items
+for each currentItem in sorted items:
+if currentItem.weight <= remainingCapacity:
+// Take the whole item
+totalValue = totalValue + currentItem.value
+remainingCapacity = remainingCapacity - currentItem.weight
+else:
+// Take a fraction of the item to fill the knapsack
+valueToAdd = remainingCapacity * currentItem.ratio
+totalValue = totalValue + valueToAdd
+// The knapsack is now full, so we can stop.
+break
+
+// 4. Return result
+return totalValue

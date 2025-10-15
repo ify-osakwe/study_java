@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/codewars/placeholder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/hackerrank/onemonth/ArrayManipulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/hackerrank/thirtydays/Day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/leetcode/easy/placeholder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/leetcode/hard/placeholder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/leetcode/medium/placeholder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/timBulchalka/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/timBulchalka/sorting/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +51,7 @@
     "Application.Abstract01.executor": "Run",
     "Application.AbstractCreator.executor": "Run",
     "Application.AbstractFactoryPattern.executor": "Run",
+    "Application.AdjacentDuplicates.executor": "Run",
     "Application.AlphabetSearching.executor": "Run",
     "Application.AlphabetSoup.executor": "Run",
     "Application.AnagramCheck.executor": "Run",
@@ -98,6 +92,8 @@
     "Application.CountEvenLetter.executor": "Run",
     "Application.CountingMinutes.executor": "Run",
     "Application.CountingSort.executor": "Run",
+    "Application.DP1.executor": "Run",
+    "Application.DPMemo.executor": "Run",
     "Application.DashInsert.executor": "Run",
     "Application.DashInsert2.executor": "Run",
     "Application.DateTime00.executor": "Run",
@@ -110,6 +106,7 @@
     "Application.Delegation.executor": "Run",
     "Application.DependencyInjection.executor": "Run",
     "Application.DistinctCharacter.executor": "Run",
+    "Application.DpLCS.executor": "Run",
     "Application.EmployeePay.executor": "Run",
     "Application.Enum01.executor": "Run",
     "Application.Exercise1.executor": "Run",
@@ -145,6 +142,8 @@
     "Application.Gen01.executor": "Run",
     "Application.Gen02.executor": "Run",
     "Application.Gen03.executor": "Run",
+    "Application.GreedyMethod.executor": "Run",
+    "Application.GreedyMethod2.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HttpClientGet.executor": "Run",
     "Application.HttpExample.executor": "Run",
@@ -152,6 +151,7 @@
     "Application.InsertionSort.executor": "Run",
     "Application.Interface01.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
+    "Application.IsomorphicString.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
     "Application.Lambda00.executor": "Run",
@@ -174,6 +174,7 @@
     "Application.MediatorPattern2.executor": "Run",
     "Application.MementoPattern.executor": "Run",
     "Application.MergeSort.executor": "Run",
+    "Application.MergeSortExample.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.Method3.executor": "Run",
     "Application.Method4.executor": "Run",
@@ -276,6 +277,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
@@ -289,7 +291,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -312,13 +314,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringRotate2Place">
-    <configuration name="LongCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.g4g.strings.LongCommonPrefix" />
+  <component name="RunManager" selected="Application.DpLCS">
+    <configuration name="DP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DP1" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.g4g.strings.*" />
+          <option name="PATTERN" value="dsa.notes.optimise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.g4g.strings.NonRepeatingChar" />
+    <configuration name="DPMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DPMemo" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.g4g.strings.*" />
+          <option name="PATTERN" value="dsa.notes.optimise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.g4g.strings.PermutateString" />
+    <configuration name="DpLCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DpLCS" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.g4g.strings.*" />
+          <option name="PATTERN" value="dsa.notes.optimise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.g4g.strings.StringRotate" />
+    <configuration name="GreedyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.GreedyMethod" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.g4g.strings.*" />
+          <option name="PATTERN" value="dsa.notes.optimise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRotate2Place" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.g4g.strings.StringRotate2Place" />
+    <configuration name="GreedyMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.GreedyMethod2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.g4g.strings.*" />
+          <option name="PATTERN" value="dsa.notes.optimise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,19 +382,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringRotate2Place" />
-        <item itemvalue="Application.StringRotate" />
-        <item itemvalue="Application.NonRepeatingChar" />
-        <item itemvalue="Application.LongCommonPrefix" />
-        <item itemvalue="Application.PermutateString" />
+        <item itemvalue="Application.DpLCS" />
+        <item itemvalue="Application.DP1" />
+        <item itemvalue="Application.DPMemo" />
+        <item itemvalue="Application.GreedyMethod2" />
+        <item itemvalue="Application.GreedyMethod" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -435,7 +437,17 @@
       <workItem from="1752303750180" duration="7218000" />
       <workItem from="1752474036696" duration="9590000" />
       <workItem from="1753205756769" duration="6202000" />
-      <workItem from="1753998212159" duration="4081000" />
+      <workItem from="1753998212159" duration="4232000" />
+      <workItem from="1754118923062" duration="603000" />
+      <workItem from="1754168389730" duration="362000" />
+      <workItem from="1755720518134" duration="279000" />
+      <workItem from="1755720806857" duration="4909000" />
+      <workItem from="1755898579226" duration="1893000" />
+      <workItem from="1759304734105" duration="810000" />
+      <workItem from="1759790657657" duration="10225000" />
+      <workItem from="1759931722476" duration="4346000" />
+      <workItem from="1760468657870" duration="5990000" />
+      <workItem from="1760519587103" duration="2827000" />
     </task>
     <servers />
   </component>

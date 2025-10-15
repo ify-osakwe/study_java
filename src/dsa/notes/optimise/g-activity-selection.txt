@@ -1,0 +1,22 @@
+
+GREEDY METHOD
+ACTIVITY SELECTION PROBLEM
+
+function findMaxActivities(activities):
+  // Step 1: Sort
+  sort activities by finish time
+
+  // Step 2: Initialize
+  create a list called solution
+  add the first activity from sorted list to solution
+  let lastActivity = the first activity
+
+  // Step 3: Loop and Check
+  for each remaining activity in the sorted list:
+    if activity.startTime >= lastActivity.finishTime:
+      add activity to solution
+      lastActivity = activity
+
+  // Step 4: Return result
+  return solution
+
