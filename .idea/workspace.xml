@@ -6,6 +6,38 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/HeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/HeapMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/HeapMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/HeapMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/TestHeapMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/TestHeapMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/DoubleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/DoubleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/SingleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/SingleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/TestDoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/TestDoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/TestSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/TestSinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DPMemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DPMemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DPTabulate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DPTabulate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DpLCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DpLCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/GreedyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/GreedyMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/g-activity-selection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/g-activity-selection.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/g-knapsack-problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/g-knapsack-problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/queue/QueueOnDLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/queue/QueueOnDLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/queue/TestQueueOnDLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/queue/TestQueueOnDLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/searching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/searching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/searching/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/MergeSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/MergeSortExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/stack/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/stack/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/BSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/TestBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/TestBSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/TreeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/TreeUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +97,7 @@
     "Application.AsteriskStripper.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.BasicRomanNumerals.executor": "Run",
+    "Application.BestTimeStock.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BridgePattern.executor": "Run",
     "Application.BridgePattern2.executor": "Run",
@@ -88,6 +121,8 @@
     "Application.ConcreteCreator.executor": "Run",
     "Application.ConsonantCount.executor": "Run",
     "Application.ConsonantVowelRatio.executor": "Run",
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.ContainsDuplicateII.executor": "Run",
     "Application.CorrectPath.executor": "Run",
     "Application.CountEvenLetter.executor": "Run",
     "Application.CountingMinutes.executor": "Run",
@@ -154,6 +189,7 @@
     "Application.IsomorphicString.executor": "Run",
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
+    "Application.KmpAlgorithm.executor": "Run",
     "Application.Lambda00.executor": "Run",
     "Application.LargestStringAfterDeletion.executor": "Run",
     "Application.LetterCapitalize.executor": "Run",
@@ -211,6 +247,7 @@
     "Application.QA4.executor": "Run",
     "Application.QuestionMarks.executor": "Run",
     "Application.QuickSort.executor": "Run",
+    "Application.RabinKarpAlgorithm.executor": "Run",
     "Application.RadixSort.executor": "Run",
     "Application.ReadInput.executor": "Run",
     "Application.ReadTextFromFile.executor": "Run",
@@ -241,6 +278,7 @@
     "Application.StringRotate2Place.executor": "Run",
     "Application.StringScramble.executor": "Run",
     "Application.StringZigZag.executor": "Run",
+    "Application.SumSubsets.executor": "Run",
     "Application.SwapCase.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
@@ -257,6 +295,8 @@
     "Application.Thread03.executor": "Run",
     "Application.Thread05.executor": "Run",
     "Application.TimeConvert.executor": "Run",
+    "Application.TowerOfHanoi.executor": "Run",
+    "Application.TwoSum.executor": "Run",
     "Application.UsernameValidation.executor": "Run",
     "Application.UtilitiesMain.executor": "Run",
     "Application.VisitorPattern.executor": "Run",
@@ -314,13 +354,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DpLCS">
-    <configuration name="DP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DP1" />
+  <component name="RunManager" selected="Application.TwoSum">
+    <configuration name="BestTimeStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.BestTimeStock" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.optimise.*" />
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DPMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DPMemo" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainsDuplicate" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.optimise.*" />
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DpLCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.DpLCS" />
+    <configuration name="ContainsDuplicateII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainsDuplicateII" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.optimise.*" />
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.GreedyMethod" />
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.TowerOfHanoi" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.optimise.*" />
+          <option name="PATTERN" value="dsa.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,12 +407,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.notes.optimise.GreedyMethod2" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.TwoSum" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.notes.optimise.*" />
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,11 +422,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DpLCS" />
-        <item itemvalue="Application.DP1" />
-        <item itemvalue="Application.DPMemo" />
-        <item itemvalue="Application.GreedyMethod2" />
-        <item itemvalue="Application.GreedyMethod" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.BestTimeStock" />
+        <item itemvalue="Application.ContainsDuplicateII" />
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.TowerOfHanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +487,12 @@
       <workItem from="1759790657657" duration="10225000" />
       <workItem from="1759931722476" duration="4346000" />
       <workItem from="1760468657870" duration="5990000" />
-      <workItem from="1760519587103" duration="2827000" />
+      <workItem from="1760519587103" duration="7664000" />
+      <workItem from="1761151341289" duration="2495000" />
+      <workItem from="1761236063454" duration="3824000" />
+      <workItem from="1761301499307" duration="2755000" />
+      <workItem from="1761308105834" duration="2049000" />
+      <workItem from="1761407832399" duration="10696000" />
     </task>
     <servers />
   </component>
