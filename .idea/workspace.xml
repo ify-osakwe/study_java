@@ -6,38 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/HeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/HeapMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/HeapMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/HeapMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/TestHeapMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/heap/TestHeapMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/heap/TestHeapMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/DoubleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/DoubleNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/SingleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/SingleNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/TestDoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/TestDoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/linkedlist/TestSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/linkedlist/TestSinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DPMemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DPMemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DPTabulate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DPTabulate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/DpLCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DpLCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/GreedyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/GreedyMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/g-activity-selection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/g-activity-selection.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/optimise/g-knapsack-problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/g-knapsack-problem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/queue/QueueOnDLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/queue/QueueOnDLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/queue/TestQueueOnDLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/queue/TestQueueOnDLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/searching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/searching/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/MergeSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/MergeSortExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/stack/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/stack/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/BSTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/TestBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/TestBSTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/notes/tree/TreeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/ds/tree/TreeUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +174,8 @@
     "Application.Main.executor": "Run",
     "Application.MainEnum00.executor": "Run",
     "Application.Math01.executor": "Run",
+    "Application.MaxProductSubArray.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
     "Application.MediatorPattern.executor": "Run",
     "Application.MediatorPattern2.executor": "Run",
     "Application.MementoPattern.executor": "Run",
@@ -238,6 +208,7 @@
     "Application.Polymorphism02.executor": "Run",
     "Application.PrimitiveType.executor": "Run",
     "Application.PrimitiveType3.executor": "Run",
+    "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.ProgramToInterface.executor": "Run",
     "Application.PrototypePattern.executor": "Run",
     "Application.ProxyPattern.executor": "Run",
@@ -354,7 +325,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.MaxProductSubArray">
     <configuration name="BestTimeStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.BestTimeStock" />
       <module name="study_java" />
@@ -368,8 +339,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainsDuplicate" />
+    <configuration name="MaxProductSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.MaxProductSubArray" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -381,8 +352,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicateII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainsDuplicateII" />
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.MaxSubArray" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -394,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.TowerOfHanoi" />
+    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ProductOfArrayExceptSelf" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.*" />
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProductSubArray" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.BestTimeStock" />
-        <item itemvalue="Application.ContainsDuplicateII" />
-        <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.TowerOfHanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +463,9 @@
       <workItem from="1761236063454" duration="3824000" />
       <workItem from="1761301499307" duration="2755000" />
       <workItem from="1761308105834" duration="2049000" />
-      <workItem from="1761407832399" duration="10696000" />
+      <workItem from="1761407832399" duration="10851000" />
+      <workItem from="1761560269155" duration="20000" />
+      <workItem from="1761560460121" duration="9861000" />
     </task>
     <servers />
   </component>
