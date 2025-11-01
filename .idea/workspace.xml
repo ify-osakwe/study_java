@@ -137,6 +137,7 @@
     "Application.File02.executor": "Run",
     "Application.File03.executor": "Run",
     "Application.File04.executor": "Run",
+    "Application.FindMinRotatedSubArray.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
     "Application.FlyWeightPattern2.executor": "Run",
@@ -228,6 +229,7 @@
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWords.executor": "Run",
     "Application.RunLength.executor": "Run",
+    "Application.SearchSortArray.executor": "Run",
     "Application.SearchingChallenge.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.ShellSort.executor": "Run",
@@ -325,9 +327,9 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxProductSubArray">
-    <configuration name="BestTimeStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.BestTimeStock" />
+  <component name="RunManager" selected="Application.SearchSortArray">
+    <configuration name="FindMinRotatedSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.FindMinRotatedSortArray" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -378,8 +380,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.TwoSum" />
+    <configuration name="SearchSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.SearchSortArray" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -393,11 +395,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchSortArray" />
+        <item itemvalue="Application.FindMinRotatedSortArray" />
         <item itemvalue="Application.MaxProductSubArray" />
         <item itemvalue="Application.MaxSubArray" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.BestTimeStock" />
       </list>
     </recent_temporary>
   </component>
@@ -466,6 +468,8 @@
       <workItem from="1761407832399" duration="10851000" />
       <workItem from="1761560269155" duration="20000" />
       <workItem from="1761560460121" duration="9861000" />
+      <workItem from="1761662033370" duration="1378000" />
+      <workItem from="1762008900993" duration="7420000" />
     </task>
     <servers />
   </component>
