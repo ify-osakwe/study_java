@@ -89,6 +89,7 @@
     "Application.ConcreteCreator.executor": "Run",
     "Application.ConsonantCount.executor": "Run",
     "Application.ConsonantVowelRatio.executor": "Run",
+    "Application.ContainerWithWater.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.ContainsDuplicateII.executor": "Run",
     "Application.CorrectPath.executor": "Run",
@@ -267,6 +268,7 @@
     "Application.Thread01.executor": "Run",
     "Application.Thread03.executor": "Run",
     "Application.Thread05.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
     "Application.TimeConvert.executor": "Run",
     "Application.TowerOfHanoi.executor": "Run",
     "Application.TwoSum.executor": "Run",
@@ -327,7 +329,20 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchSortArray">
+  <component name="RunManager" selected="Application.NextPermutation">
+    <configuration name="ContainerWithWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainerWithWater" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinRotatedSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.FindMinRotatedSortArray" />
       <module name="study_java" />
@@ -341,34 +356,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProductSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.MaxProductSubArray" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.MaxSubArray" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ProductOfArrayExceptSelf" />
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.NextPermutation" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -393,13 +382,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ThreeSum" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.ContainerWithWater" />
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.SearchSortArray" />
         <item itemvalue="Application.FindMinRotatedSortArray" />
-        <item itemvalue="Application.MaxProductSubArray" />
-        <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.ProductOfArrayExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +471,9 @@
       <workItem from="1761560269155" duration="20000" />
       <workItem from="1761560460121" duration="9861000" />
       <workItem from="1761662033370" duration="1378000" />
-      <workItem from="1762008900993" duration="7420000" />
+      <workItem from="1762008900993" duration="8025000" />
+      <workItem from="1762173153585" duration="2160000" />
+      <workItem from="1762263512544" duration="11027000" />
     </task>
     <servers />
   </component>
