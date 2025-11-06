@@ -139,6 +139,7 @@
     "Application.File03.executor": "Run",
     "Application.File04.executor": "Run",
     "Application.FindMinRotatedSubArray.executor": "Run",
+    "Application.FirstLastPosition.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.FlyWeightPattern.executor": "Run",
     "Application.FlyWeightPattern2.executor": "Run",
@@ -196,6 +197,7 @@
     "Application.Nested01.executor": "Run",
     "Application.Nested02.executor": "Run",
     "Application.Nested04.executor": "Run",
+    "Application.NextPermutation.executor": "Run",
     "Application.NonRepeatingChar.executor": "Run",
     "Application.NumberEncoding.executor": "Run",
     "Application.NumberReverse.executor": "Run",
@@ -227,6 +229,7 @@
     "Application.Regex00.executor": "Run",
     "Application.Regex03.executor": "Run",
     "Application.Regex04.executor": "Run",
+    "Application.RemoveDuplicateSortedArray.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWords.executor": "Run",
     "Application.RunLength.executor": "Run",
@@ -329,7 +332,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NextPermutation">
+  <component name="RunManager" selected="Application.FirstLastPosition">
     <configuration name="ContainerWithWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainerWithWater" />
       <module name="study_java" />
@@ -343,8 +346,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinRotatedSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.FindMinRotatedSortArray" />
+    <configuration name="FirstLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.FirstLastPosition" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -369,8 +372,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.SearchSortArray" />
+    <configuration name="RemoveDuplicateSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.RemoveDuplicateSortedArray" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -397,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstLastPosition" />
+        <item itemvalue="Application.RemoveDuplicateSortedArray" />
         <item itemvalue="Application.NextPermutation" />
         <item itemvalue="Application.ContainerWithWater" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.SearchSortArray" />
-        <item itemvalue="Application.FindMinRotatedSortArray" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +476,8 @@
       <workItem from="1761662033370" duration="1378000" />
       <workItem from="1762008900993" duration="8025000" />
       <workItem from="1762173153585" duration="2160000" />
-      <workItem from="1762263512544" duration="11027000" />
+      <workItem from="1762263512544" duration="11333000" />
+      <workItem from="1762346087261" duration="6414000" />
     </task>
     <servers />
   </component>
