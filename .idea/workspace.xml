@@ -82,6 +82,8 @@
     "Application.CheckDuplicateInCSV.executor": "Run",
     "Application.ClassAdapter.executor": "Run",
     "Application.ClientP.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
+    "Application.CoinChange.executor": "Run",
     "Application.CommandLine.executor": "Run",
     "Application.CommandPattern.executor": "Run",
     "Application.CommandPattern2.executor": "Run",
@@ -332,13 +334,26 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstLastPosition">
-    <configuration name="ContainerWithWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ContainerWithWater" />
+  <component name="RunManager" selected="Application.CoinChange">
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.ClimbingStairs" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.CoinChange" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,26 +400,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.ThreeSum" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.FirstLastPosition" />
         <item itemvalue="Application.RemoveDuplicateSortedArray" />
         <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.ContainerWithWater" />
-        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -478,6 +480,8 @@
       <workItem from="1762173153585" duration="2160000" />
       <workItem from="1762263512544" duration="11333000" />
       <workItem from="1762346087261" duration="6414000" />
+      <workItem from="1762419066407" duration="236000" />
+      <workItem from="1762928268267" duration="9807000" />
     </task>
     <servers />
   </component>
