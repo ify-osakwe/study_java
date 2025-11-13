@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +175,7 @@
     "Application.List05.executor": "Run",
     "Application.Locale00.executor": "Run",
     "Application.LongCommonPrefix.executor": "Run",
+    "Application.LongestCommonSubsequence.executor": "Run",
     "Application.LongestPalindrome.executor": "Run",
     "Application.LongestWord.executor": "Run",
     "Application.Main.executor": "Run",
@@ -282,6 +284,7 @@
     "Application.VisitorPattern.executor": "Run",
     "Application.VisitorPattern2.executor": "Run",
     "Application.VowelCount.executor": "Run",
+    "Application.WordBreak.executor": "Run",
     "Application.WordCount.executor": "Run",
     "Application.XandO.executor": "Run",
     "Application.dsa.notes.sorting.BubbleSort.executor": "Run",
@@ -334,7 +337,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoinChange">
+  <component name="RunManager" selected="Application.WordBreak">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.ClimbingStairs" />
       <module name="study_java" />
@@ -374,12 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.NextPermutation" />
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.LongestCommonSubsequence" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.RemoveDuplicateSortedArray" />
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.WordBreak" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,11 +405,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.FirstLastPosition" />
-        <item itemvalue="Application.RemoveDuplicateSortedArray" />
-        <item itemvalue="Application.NextPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +484,7 @@
       <workItem from="1762263512544" duration="11333000" />
       <workItem from="1762346087261" duration="6414000" />
       <workItem from="1762419066407" duration="236000" />
-      <workItem from="1762928268267" duration="9807000" />
+      <workItem from="1762928268267" duration="22737000" />
     </task>
     <servers />
   </component>
