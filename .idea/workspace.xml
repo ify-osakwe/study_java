@@ -7,6 +7,7 @@
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +108,7 @@
     "Application.DateTime02.executor": "Run",
     "Application.DateTime03.executor": "Run",
     "Application.DecimalToBinary.executor": "Run",
+    "Application.DecodeWays.executor": "Run",
     "Application.DecoratorPattern.executor": "Run",
     "Application.DecoratorPattern2.executor": "Run",
     "Application.DecoratorPattern3.executor": "Run",
@@ -337,7 +339,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordBreak">
+  <component name="RunManager" selected="Application.DecodeWays">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.ClimbingStairs" />
       <module name="study_java" />
@@ -364,12 +366,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.arrays.FirstLastPosition" />
+    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.DecodeWays" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.arrays.*" />
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,11 +407,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecodeWays" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.ClimbingStairs" />
-        <item itemvalue="Application.FirstLastPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -484,7 +486,10 @@
       <workItem from="1762263512544" duration="11333000" />
       <workItem from="1762346087261" duration="6414000" />
       <workItem from="1762419066407" duration="236000" />
-      <workItem from="1762928268267" duration="22737000" />
+      <workItem from="1762928268267" duration="23599000" />
+      <workItem from="1763118489372" duration="2739000" />
+      <workItem from="1763121754413" duration="5450000" />
+      <workItem from="1763152164302" duration="2200000" />
     </task>
     <servers />
   </component>

@@ -14,7 +14,7 @@ public class DP1 {
         System.out.println(rob(new int[]{2, 7, 9, 3, 1}));
     }
 
-
+    // Space complexity is O(n) & Time complexity is O(n)
     public static int rob(int[] nums) {
         // 1. Handle edge cases
         if (nums == null || nums.length == 0) {
@@ -40,6 +40,7 @@ public class DP1 {
         return dp[nums.length - 1];
     }
 
+    // Space complexity is O(1) & Time complexity is O(n)
     public static int rob2(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
