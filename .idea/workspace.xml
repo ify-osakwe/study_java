@@ -7,7 +7,7 @@
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/1_.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/DP1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/DecodeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/dynamicprog/DecodeWays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +213,7 @@
     "Application.OneDecrement.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeString.executor": "Run",
+    "Application.PascalsTriangle.executor": "Run",
     "Application.PermutateString.executor": "Run",
     "Application.Polymorphism01.executor": "Run",
     "Application.Polymorphism02.executor": "Run",
@@ -339,20 +340,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecodeWays">
-    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.ClimbingStairs" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PascalsTriangle">
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.CoinChange" />
       <module name="study_java" />
@@ -392,6 +380,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.PascalsTriangle" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.WordBreak" />
       <module name="study_java" />
@@ -407,19 +408,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.DecodeWays" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.ClimbingStairs" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -489,7 +490,9 @@
       <workItem from="1762928268267" duration="23599000" />
       <workItem from="1763118489372" duration="2739000" />
       <workItem from="1763121754413" duration="5450000" />
-      <workItem from="1763152164302" duration="2200000" />
+      <workItem from="1763152164302" duration="2406000" />
+      <workItem from="1763371468172" duration="1388000" />
+      <workItem from="1764682496274" duration="12741000" />
     </task>
     <servers />
   </component>
