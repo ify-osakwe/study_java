@@ -159,6 +159,7 @@
     "Application.HttpClientGet.executor": "Run",
     "Application.HttpExample.executor": "Run",
     "Application.HttpExamplePost.executor": "Run",
+    "Application.InsertInterval.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.Interface01.executor": "Run",
     "Application.InterpreterPattern.executor": "Run",
@@ -204,6 +205,7 @@
     "Application.Nested02.executor": "Run",
     "Application.Nested04.executor": "Run",
     "Application.NextPermutation.executor": "Run",
+    "Application.NonOverlappingIntervals.executor": "Run",
     "Application.NonRepeatingChar.executor": "Run",
     "Application.NumberEncoding.executor": "Run",
     "Application.NumberReverse.executor": "Run",
@@ -341,20 +343,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive">
-    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.DecodeWays" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NonOverlappingIntervals">
     <configuration name="DeepCopySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.hashing.DeepCopySolution" />
       <module name="study_java" />
@@ -381,12 +370,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.dynamicprog.PascalsTriangle" />
+    <configuration name="InsertInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.intervals.InsertInterval" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.dynamicprog.*" />
+          <option name="PATTERN" value="dsa.problems.intervals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.intervals.NonOverlappingIntervals" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.intervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,11 +411,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonOverlappingIntervals" />
+        <item itemvalue="Application.InsertInterval" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.DeepCopySolution" />
         <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.PascalsTriangle" />
-        <item itemvalue="Application.DecodeWays" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +497,8 @@
       <workItem from="1763371468172" duration="1388000" />
       <workItem from="1764682496274" duration="13541000" />
       <workItem from="1764742476783" duration="4415000" />
-      <workItem from="1764836126120" duration="11615000" />
+      <workItem from="1764836126120" duration="12264000" />
+      <workItem from="1764916156736" duration="9651000" />
     </task>
     <servers />
   </component>
