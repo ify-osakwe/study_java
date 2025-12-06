@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/linkedlist/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/linkedlist/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/linkedlist/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/linkedlist/AddTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +193,7 @@
     "Application.MementoPattern.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.MergeSortExample.executor": "Run",
+    "Application.MergeSortedList.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.Method3.executor": "Run",
     "Application.Method4.executor": "Run",
@@ -239,6 +242,7 @@
     "Application.Regex03.executor": "Run",
     "Application.Regex04.executor": "Run",
     "Application.RemoveDuplicateSortedArray.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWords.executor": "Run",
     "Application.RomanToInteger.executor": "Run",
@@ -343,20 +347,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonOverlappingIntervals">
-    <configuration name="DeepCopySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.hashing.DeepCopySolution" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MergeSortedList">
     <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.hashing.FirstMissingPositive" />
       <module name="study_java" />
@@ -383,6 +374,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.linkedlist.MergeSortedList" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NonOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.intervals.NonOverlappingIntervals" />
       <module name="study_java" />
@@ -396,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.hashing.RomanToInteger" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.linkedlist.ReverseLinkedList" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.hashing.*" />
+          <option name="PATTERN" value="dsa.problems.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,11 +415,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedList" />
+        <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.NonOverlappingIntervals" />
         <item itemvalue="Application.InsertInterval" />
         <item itemvalue="Application.FirstMissingPositive" />
-        <item itemvalue="Application.DeepCopySolution" />
-        <item itemvalue="Application.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +502,8 @@
       <workItem from="1764682496274" duration="13541000" />
       <workItem from="1764742476783" duration="4415000" />
       <workItem from="1764836126120" duration="12264000" />
-      <workItem from="1764916156736" duration="9651000" />
+      <workItem from="1764916156736" duration="10211000" />
+      <workItem from="1765023268950" duration="9519000" />
     </task>
     <servers />
   </component>

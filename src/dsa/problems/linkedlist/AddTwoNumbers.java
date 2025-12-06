@@ -1,22 +1,9 @@
 package dsa.problems.linkedlist;
 
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
-
+/**
+ * Add two numbers
+ * <a href="https://gemini.google.com/share/7c6a4d163990">Gemini Link</a>
+ */
 public class AddTwoNumbers {
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 1. Initialize the dummy head. This simplifies edge cases where the list is empty initially.
