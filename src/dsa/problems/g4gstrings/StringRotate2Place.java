@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 Given two strings s1 and s2. Return true if the string s2 can be obtained

@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 Given a string s, reverse the string without reversing its individual words.

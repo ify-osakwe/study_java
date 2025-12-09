@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 You are given a string s. Your task is to determine if the string is a palindrome.

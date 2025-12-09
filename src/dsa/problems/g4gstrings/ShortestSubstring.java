@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 You are given two strings, s1 and s2, where s1 contains distinct lowercase vowels (a, e, i, o, u),

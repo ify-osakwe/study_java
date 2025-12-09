@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 Given an array of strings arr[]. Return the longest common prefix among each and every strings

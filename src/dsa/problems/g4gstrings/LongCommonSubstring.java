@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 You are given two strings s1 and s2. Your task is to find the length of the longest

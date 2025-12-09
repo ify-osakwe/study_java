@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 Given two numbers as strings s1 and s2. Calculate their Product.

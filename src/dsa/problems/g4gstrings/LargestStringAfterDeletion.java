@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 public class LargestStringAfterDeletion {
     public static void main(String[] args) {

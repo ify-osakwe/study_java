@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 /*
 You are given a string s in the form of an IPv4 Address. Your task is to validate an IPv4 Address,

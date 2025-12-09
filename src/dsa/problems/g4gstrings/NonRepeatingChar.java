@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

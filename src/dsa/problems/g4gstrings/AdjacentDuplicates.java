@@ -1,4 +1,4 @@
-package dsa.g4g.strings;
+package dsa.problems.g4gstrings;
 /*
 Given a string s, remove all its adjacent duplicate characters recursively,
 until there are no adjacent duplicate characters left.

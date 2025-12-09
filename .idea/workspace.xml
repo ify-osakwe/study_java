@@ -6,7 +6,30 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/linkedlist/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/linkedlist/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/AdjacentDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/AdjacentDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/AnagramCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ConsonantVowelRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ConsonantVowelRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/CountEvenLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/CountEvenLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/CountUniqueVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/CountUniqueVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ImplementAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ImplementAtoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/IsomorphicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/IsomorphicString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/LargestStringAfterDeletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/LargestStringAfterDeletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/LongCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/LongCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/LongCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/LongCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/LongSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/LongSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/MultiplyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/MultiplyStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/NonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/NonRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ParenthesisChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ParenthesisChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/PermutateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/PermutateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ShortestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ShortestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/StringRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/StringRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/StringRotate2Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/StringRotate2Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/SubstringsKDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/SubstringsKDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/g4g/strings/ValidateIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/g4gstrings/ValidateIP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dsa/problems/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/linkedlist/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -504,7 +527,8 @@
       <workItem from="1764836126120" duration="12264000" />
       <workItem from="1764916156736" duration="10211000" />
       <workItem from="1765023268950" duration="10185000" />
-      <workItem from="1765212544772" duration="10852000" />
+      <workItem from="1765212544772" duration="11110000" />
+      <workItem from="1765299590498" duration="6574000" />
     </task>
     <servers />
   </component>
