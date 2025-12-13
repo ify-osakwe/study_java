@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/string/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/string/1_.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,6 +283,7 @@
     "Application.TestQueueOnDLL.executor": "Run",
     "Application.TestSinglyLinkedList.executor": "Run",
     "Application.TestStack.executor": "Run",
+    "Application.TextJustification.executor": "Run",
     "Application.Thread00.executor": "Run",
     "Application.Thread01.executor": "Run",
     "Application.Thread03.executor": "Run",
@@ -351,7 +353,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidParentheses">
+  <component name="RunManager" selected="Application.TextJustification">
     <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.string.LongestCommonPrefix" />
       <module name="study_java" />
@@ -365,8 +367,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestRepeatingCharReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.LongestRepeatingCharReplacement" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.MinimumWindowSubstring" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -378,8 +380,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.MinimumWindowSubstring" />
+    <configuration name="TextJustification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.TextJustification" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
@@ -419,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextJustification" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.MinimumWindowSubstring" />
         <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.LongestRepeatingCharReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +513,8 @@
       <workItem from="1765212544772" duration="11110000" />
       <workItem from="1765299590498" duration="6713000" />
       <workItem from="1765351532553" duration="331000" />
-      <workItem from="1765447032495" duration="15020000" />
+      <workItem from="1765447032495" duration="15741000" />
+      <workItem from="1765549701535" duration="9160000" />
     </task>
     <servers />
   </component>
