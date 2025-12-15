@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/string/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/string/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/stack/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/stack/1_.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +183,7 @@
     "Application.LongestCommonSubsequence.executor": "Run",
     "Application.LongestPalindrome.executor": "Run",
     "Application.LongestRepeatingCharReplacement.executor": "Run",
+    "Application.LongestValidParentheses.executor": "Run",
     "Application.LongestWord.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainEnum00.executor": "Run",
@@ -202,6 +203,7 @@
     "Application.Method7.executor": "Run",
     "Application.Method8.executor": "Run",
     "Application.Method9.executor": "Run",
+    "Application.MinimumRemoveParentheses.executor": "Run",
     "Application.MinimumWindowSubstring.executor": "Run",
     "Application.MultiThreadSimpleClient.executor": "Run",
     "Application.MultiThreadSimpleServer.executor": "Run",
@@ -353,13 +355,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TextJustification">
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.LongestCommonPrefix" />
+  <component name="RunManager" selected="Application.LongestValidParentheses">
+    <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.stack.LongestValidParentheses" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.string.*" />
+          <option name="PATTERN" value="dsa.problems.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.MinimumWindowSubstring" />
+    <configuration name="MinimumRemoveParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.stack.MinimumRemoveParentheses" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.string.*" />
+          <option name="PATTERN" value="dsa.problems.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,11 +423,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestValidParentheses" />
+        <item itemvalue="Application.MinimumRemoveParentheses" />
         <item itemvalue="Application.TextJustification" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.MinimumWindowSubstring" />
-        <item itemvalue="Application.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +516,10 @@
       <workItem from="1765299590498" duration="6713000" />
       <workItem from="1765351532553" duration="331000" />
       <workItem from="1765447032495" duration="15741000" />
-      <workItem from="1765549701535" duration="9160000" />
+      <workItem from="1765549701535" duration="9838000" />
+      <workItem from="1765809912730" duration="229000" />
+      <workItem from="1765810151857" duration="1053000" />
+      <workItem from="1765833425908" duration="3376000" />
     </task>
     <servers />
   </component>
