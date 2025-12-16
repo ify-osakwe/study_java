@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/heap/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/heap/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/backtracking/SumSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/backtracking/SumSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -524,7 +525,7 @@
       <workItem from="1765810151857" duration="1053000" />
       <workItem from="1765833425908" duration="3637000" />
       <workItem from="1765875162811" duration="122000" />
-      <workItem from="1765918810224" duration="4344000" />
+      <workItem from="1765918810224" duration="5765000" />
     </task>
     <servers />
   </component>

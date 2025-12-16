@@ -3,6 +3,10 @@ package dsa.problems.heap;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
+/**
+ * Median Finder
+ * <a href="https://gemini.google.com/share/7fe0a9ef28d5">Gemini Link</a>
+ */
 class MedianFinder {
     // Max-heap to store the smaller half of the numbers
     private PriorityQueue<Integer> small;

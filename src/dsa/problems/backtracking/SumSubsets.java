@@ -58,7 +58,7 @@ public class SumSubsets {
         // CHOICE 2: "Ignore" the number at arr[index]
         // *** This is the "Backtrack" step! ***
         // We must remove the number we just added to explore the *other* path.
-        currentSubset.removeLast(); // currentSubset.remove(currentSubset.size() - 1);
+        currentSubset.remove(currentSubset.size() - 1);
 
         // ...and recurse, moving to the next index but *not* adding to the sum.
         findSubsets(arr, targetSum, index + 1, currentSum, currentSubset);

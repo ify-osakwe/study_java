@@ -41,8 +41,8 @@ public class GreedyMethod {
         }
 
         // Add the first activity
-        Activity lastActivity = activities.get(0); //.getFirst();
-        solution.add(activities.get(0)); // activities.getFirst()
+        Activity lastActivity = activities.get(0);
+        solution.add(activities.get(0));
 
         // Step 3: Loop through the rest of the activities
         // Start from the second activity (index 1)
