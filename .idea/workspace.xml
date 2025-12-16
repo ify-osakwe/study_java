@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/stack/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/stack/1_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/problems/heap/1_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/heap/1_.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +168,7 @@
     "Application.IteratorPattern.executor": "Run",
     "Application.IteratorPattern2.executor": "Run",
     "Application.KmpAlgorithm.executor": "Run",
+    "Application.KthLargest.executor": "Run",
     "Application.Lambda00.executor": "Run",
     "Application.LargestStringAfterDeletion.executor": "Run",
     "Application.LetterCapitalize.executor": "Run",
@@ -190,6 +191,7 @@
     "Application.Math01.executor": "Run",
     "Application.MaxProductSubArray.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
+    "Application.MedianFinder.executor": "Run",
     "Application.MediatorPattern.executor": "Run",
     "Application.MediatorPattern2.executor": "Run",
     "Application.MementoPattern.executor": "Run",
@@ -261,6 +263,7 @@
     "Application.SimplePassword.executor": "Run",
     "Application.SimpleServer.executor": "Run",
     "Application.SimpleSymbols.executor": "Run",
+    "Application.SlidingWindowMax.executor": "Run",
     "Application.StackImpl.executor": "Run",
     "Application.StarRatings.executor": "Run",
     "Application.StatePattern.executor": "Run",
@@ -332,10 +335,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -355,13 +358,39 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestValidParentheses">
+  <component name="RunManager" selected="Application.MedianFinder">
+    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.heap.KthLargest" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.problems.stack.LongestValidParentheses" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dsa.problems.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.heap.MedianFinder" />
+      <module name="study_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.problems.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,38 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextJustification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.TextJustification" />
+    <configuration name="SlidingWindowMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.heap.SlidingWindowMax" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.ValidAnagram" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.string.ValidParentheses" />
-      <module name="study_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa.problems.string.*" />
+          <option name="PATTERN" value="dsa.problems.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,11 +426,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MedianFinder" />
+        <item itemvalue="Application.SlidingWindowMax" />
+        <item itemvalue="Application.KthLargest" />
         <item itemvalue="Application.LongestValidParentheses" />
         <item itemvalue="Application.MinimumRemoveParentheses" />
-        <item itemvalue="Application.TextJustification" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.ValidAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +522,9 @@
       <workItem from="1765549701535" duration="9838000" />
       <workItem from="1765809912730" duration="229000" />
       <workItem from="1765810151857" duration="1053000" />
-      <workItem from="1765833425908" duration="3376000" />
+      <workItem from="1765833425908" duration="3637000" />
+      <workItem from="1765875162811" duration="122000" />
+      <workItem from="1765918810224" duration="4344000" />
     </task>
     <servers />
   </component>
