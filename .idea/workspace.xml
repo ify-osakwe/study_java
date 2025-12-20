@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/backtracking/SumSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/backtracking/SumSubsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/problems/optimise/GreedyMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +96,7 @@
     "Application.ContainsDuplicateII.executor": "Run",
     "Application.CorrectPath.executor": "Run",
     "Application.CountEvenLetter.executor": "Run",
+    "Application.CountingBits.executor": "Run",
     "Application.CountingMinutes.executor": "Run",
     "Application.CountingSort.executor": "Run",
     "Application.DP1.executor": "Run",
@@ -157,6 +156,7 @@
     "Application.Gen03.executor": "Run",
     "Application.GreedyMethod.executor": "Run",
     "Application.GreedyMethod2.executor": "Run",
+    "Application.HammingWeight.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HttpClientGet.executor": "Run",
     "Application.HttpExample.executor": "Run",
@@ -249,6 +249,7 @@
     "Application.Regex03.executor": "Run",
     "Application.Regex04.executor": "Run",
     "Application.RemoveDuplicateSortedArray.executor": "Run",
+    "Application.ReverseBits.executor": "Run",
     "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWords.executor": "Run",
@@ -278,6 +279,7 @@
     "Application.StringScramble.executor": "Run",
     "Application.StringZigZag.executor": "Run",
     "Application.SumSubsets.executor": "Run",
+    "Application.SumofTwoIntegers.executor": "Run",
     "Application.SwapCase.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.TemplateMethodPattern.executor": "Run",
@@ -336,10 +338,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -359,13 +361,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MedianFinder">
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.heap.KthLargest" />
+  <component name="RunManager" selected="Application.ReverseBits">
+    <configuration name="CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.binarybit.CountingBits" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.heap.*" />
+          <option name="PATTERN" value="dsa.problems.binarybit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.stack.LongestValidParentheses" />
+    <configuration name="HammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.binarybit.HammingWeight" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.stack.*" />
+          <option name="PATTERN" value="dsa.problems.binarybit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +401,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumRemoveParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.stack.MinimumRemoveParentheses" />
+    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.binarybit.ReverseBits" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.stack.*" />
+          <option name="PATTERN" value="dsa.problems.binarybit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,12 +414,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindowMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.problems.heap.SlidingWindowMax" />
+    <configuration name="SumofTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.problems.binarybit.SumofTwoIntegers" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.problems.heap.*" />
+          <option name="PATTERN" value="dsa.problems.binarybit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,11 +429,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseBits" />
+        <item itemvalue="Application.CountingBits" />
+        <item itemvalue="Application.HammingWeight" />
+        <item itemvalue="Application.SumofTwoIntegers" />
         <item itemvalue="Application.MedianFinder" />
-        <item itemvalue="Application.SlidingWindowMax" />
-        <item itemvalue="Application.KthLargest" />
-        <item itemvalue="Application.LongestValidParentheses" />
-        <item itemvalue="Application.MinimumRemoveParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +527,9 @@
       <workItem from="1765810151857" duration="1053000" />
       <workItem from="1765833425908" duration="3637000" />
       <workItem from="1765875162811" duration="122000" />
-      <workItem from="1765918810224" duration="5765000" />
+      <workItem from="1765918810224" duration="6324000" />
+      <workItem from="1766073049993" duration="2768000" />
+      <workItem from="1766137439911" duration="8598000" />
     </task>
     <servers />
   </component>

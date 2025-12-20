@@ -1,0 +1,139 @@
+####################################################################################
+==> SumofTwoIntegers.java
+
+Given two integers a and b, return the sum of the two integers
+without using the operators + and -.
+
+Example 1:
+Input: a = 1, b = 2
+Output: 3
+
+Example 2:
+Input: a = 2, b = 3
+Output: 5
+
+Constraints:
+-1000 <= a, b <= 1000
+
+####################################################################################
+==> HammingWeight.java
+
+Given a positive integer n, write a function that returns the number of set bits in
+its binary representation (also known as the Hamming weight).
+
+Example 1:
+Input: n = 11
+Output: 3
+Explanation:
+The input binary string 1011 has a total of three set bits.
+
+Example 2:
+Input: n = 128
+Output: 1
+Explanation:
+The input binary string 10000000 has a total of one set bit.
+
+Example 3:
+Input: n = 2147483645
+Output: 30
+Explanation:
+The input binary string 1111111111111111111111111111101 has a total of thirty set bits.
+
+Constraints:
+1 <= n <= 2^31 - 1
+
+Follow up: If this function is called many times, how would you optimise it?
+
+####################################################################################
+==> CountingBits.java
+
+Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n),
+ans[i] is the number of 1's in the binary representation of i.
+
+Example 1:
+Input: n = 2
+Output: [0,1,1]
+Explanation:
+0 --> 0
+1 --> 1
+2 --> 10
+
+Example 2:
+Input: n = 5
+Output: [0,1,1,2,1,2]
+Explanation:
+0 --> 0
+1 --> 1
+2 --> 10
+3 --> 11
+4 --> 100
+5 --> 101
+
+Constraints:
+0 <= n <= 10^5
+
+####################################################################################
+==> MissingNumber.java
+
+Given an array nums containing n distinct numbers in the range [0, n],
+return the only number in the range that is missing from the array.
+
+Example 1:
+Input: nums = [3,0,1]
+Output: 2
+Explanation:
+n = 3 since there are 3 numbers, so all numbers are in the range [0,3].
+2 is the missing number in the range since it does not appear in nums.
+
+Example 2:
+Input: nums = [0,1]
+Output: 2
+Explanation:
+n = 2 since there are 2 numbers, so all numbers are in the range [0,2].
+2 is the missing number in the range since it does not appear in nums.
+
+Example 3:
+Input: nums = [9,6,4,2,3,5,7,0,1]
+Output: 8
+Explanation:
+n = 9 since there are 9 numbers, so all numbers are in the range [0,9].
+8 is the missing number in the range since it does not appear in nums.
+
+Constraints:
+n == nums.length
+1 <= n <= 10^4
+0 <= nums[i] <= n
+All the numbers of nums are unique.
+
+Follow up: Could you implement a solution using only O(1) extra space complexity
+and O(n) runtime complexity?
+
+####################################################################################
+==> ReverseBits.java
+
+Reverse bits of a given 32 bits signed integer.
+
+Example 1:
+Input: n = 43261596
+Output: 964176192
+
+Explanation:
+Integer -> Binary
+43261596 -> 00000010100101000001111010011100
+964176192 -> 00111001011110000010100101000000
+
+Example 2:
+Input: n = 2147483644
+Output: 1073741822
+Explanation:
+Integer -> Binary
+2147483644 -> 01111111111111111111111111111100
+1073741822 -> 00111111111111111111111111111110
+
+Constraints:
+0 <= n <= 2^31 - 2
+n is even.
+Follow up: If this function is called many times, how would you optimize it?
+
+####################################################################################
+==>
