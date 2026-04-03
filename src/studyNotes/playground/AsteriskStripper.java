@@ -1,4 +1,4 @@
-package playground;
+package studyNotes.playground;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -55,10 +55,10 @@ public class AsteriskStripper {
 class TextInput {
     static String input = "";
     static String file1 =
-            "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/playground/asteriskinput.txt";
+            "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/studyNotes.playground/asteriskinput.txt";
     static String file2 =
-            "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/playground/asteriskoutput.txt";
+            "/Users/ifeakachukwuosakwe/Projects/java/study_java/src/studyNotes.playground/asteriskoutput.txt";
 
     private static final String pwd = "/Users/ifeakachukwuosakwe/Projects/java/study_java";
-    static String dir = "/src/playground";
+    static String dir = "/src/studyNotes.playground";
 }

@@ -1,4 +1,4 @@
-package playground.bcs;
+package studyNotes.bcs;
 
 public class StackImpl {
     private static final int MAX = 5;  // Maximum size of the stack

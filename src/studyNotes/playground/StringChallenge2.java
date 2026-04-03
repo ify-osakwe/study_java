@@ -1,4 +1,4 @@
-package playground;
+package studyNotes.playground;
 
 import java.util.HashMap;
 

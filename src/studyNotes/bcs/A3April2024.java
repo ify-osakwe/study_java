@@ -1,4 +1,4 @@
-package playground.bcs;
+package studyNotes.bcs;
 
 import java.io.FileWriter;
 import java.io.IOException;

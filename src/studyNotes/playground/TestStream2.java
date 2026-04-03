@@ -1,9 +1,6 @@
-package playground;
+package studyNotes.playground;
 
-import java.util.function.Supplier;
 import java.util.stream.IntStream;
-import java.util.stream.LongStream;
-import java.util.stream.Stream;
 
 public class TestStream2 {
     public static IntStream stream() {

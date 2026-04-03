@@ -1,4 +1,4 @@
-package playground;
+package studyNotes.playground;
 
 public class ArrayChallenge {
     public static void main(String[] args) {

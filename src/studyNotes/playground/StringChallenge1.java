@@ -1,4 +1,4 @@
-package playground;
+package studyNotes.playground;
 
 public class StringChallenge1 {
     public static void main(String[] args) {
