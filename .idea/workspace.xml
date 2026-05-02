@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbfee3dc-d6e2-4f1d-9d7d-fce468e99e59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/ArrayChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/ArrayChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/AsteriskStripper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/AsteriskStripper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/CheckDuplicateInCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/CheckDuplicateInCSV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/SearchingChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/SearchingChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/StringChallenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/StringChallenge1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/StringChallenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/StringChallenge2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/TestLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/TestStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/TestStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/TestStream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/TestStream2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/WordleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/WordleGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/WordleGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/WordleGame2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/asteriskinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/asteriskinput.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/asteriskoutput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/playground/asteriskoutput.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/A3April2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/A3April2022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/A3April2024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/A3April2024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/ApproximatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/ApproximatePi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/ArrayManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/DecimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/DecimalToBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/EmployeePay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/EmployeePay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/EmployeePay2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/EmployeePay2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/NumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/bcs/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyNotes/bcs/StackImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +73,7 @@
     "Application.BuilderPattern.executor": "Run",
     "Application.CaesarCipher.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.CallByReferenceOrValue.executor": "Run",
     "Application.CamelCase.executor": "Run",
     "Application.CarMain.executor": "Run",
     "Application.CardDeck.executor": "Run",
@@ -181,9 +159,11 @@
     "Application.GreedyMethod2.executor": "Run",
     "Application.HammingWeight.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.HttpClientDemo.executor": "Run",
     "Application.HttpClientGet.executor": "Run",
     "Application.HttpExample.executor": "Run",
     "Application.HttpExamplePost.executor": "Run",
+    "Application.InetAddressTest.executor": "Run",
     "Application.InsertInterval.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.Interface01.executor": "Run",
@@ -302,6 +282,11 @@
     "Application.StatePattern.executor": "Run",
     "Application.StaticMethod.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
+    "Application.Stream1.executor": "Run",
+    "Application.Stream2.executor": "Run",
+    "Application.Stream3.executor": "Run",
+    "Application.Stream4.executor": "Run",
+    "Application.Stream5.executor": "Run",
     "Application.StringChallenge1.executor": "Run",
     "Application.StringChanges.executor": "Run",
     "Application.StringFormatting.executor": "Run",
@@ -342,6 +327,7 @@
     "Application.VisitorPattern.executor": "Run",
     "Application.VisitorPattern2.executor": "Run",
     "Application.VowelCount.executor": "Run",
+    "Application.Whois.executor": "Run",
     "Application.WordBreak.executor": "Run",
     "Application.WordCount.executor": "Run",
     "Application.XandO.executor": "Run",
@@ -373,7 +359,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
@@ -396,13 +382,13 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambda9">
-    <configuration name="Lambda4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.lambdas.Lambda4" />
+  <component name="RunManager" selected="Application.CallByReferenceOrValue">
+    <configuration name="CallByReferenceOrValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyNotes.playground.CallByReferenceOrValue" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.lambdas.*" />
+          <option name="PATTERN" value="studyNotes.playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +396,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.lambdas.Lambda5" />
+    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyNotes.streams.Stream2" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.lambdas.*" />
+          <option name="PATTERN" value="studyNotes.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.lambdas.Lambda6" />
+    <configuration name="Stream3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyNotes.streams.Stream3" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.lambdas.*" />
+          <option name="PATTERN" value="studyNotes.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,12 +422,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.lambdas.Lambda8" />
+    <configuration name="Stream4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyNotes.streams.Stream4" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.lambdas.*" />
+          <option name="PATTERN" value="studyNotes.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,12 +435,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.lambdas.Lambda9" />
+    <configuration name="Stream5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyNotes.streams.Stream5" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.lambdas.*" />
+          <option name="PATTERN" value="studyNotes.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,11 +450,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lambda9" />
-        <item itemvalue="Application.Lambda8" />
-        <item itemvalue="Application.Lambda6" />
-        <item itemvalue="Application.Lambda5" />
-        <item itemvalue="Application.Lambda4" />
+        <item itemvalue="Application.CallByReferenceOrValue" />
+        <item itemvalue="Application.Stream5" />
+        <item itemvalue="Application.Stream4" />
+        <item itemvalue="Application.Stream3" />
+        <item itemvalue="Application.Stream2" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +557,14 @@
       <workItem from="1775074384101" duration="603000" />
       <workItem from="1775157176252" duration="106000" />
       <workItem from="1775207469733" duration="62000" />
-      <workItem from="1775209720500" duration="9448000" />
+      <workItem from="1775209720500" duration="9823000" />
+      <workItem from="1775319364725" duration="694000" />
+      <workItem from="1775457672095" duration="7102000" />
+      <workItem from="1775831090812" duration="1426000" />
+      <workItem from="1775904260934" duration="4488000" />
+      <workItem from="1776181202368" duration="9411000" />
+      <workItem from="1776257772438" duration="2089000" />
+      <workItem from="1776362533330" duration="192000" />
     </task>
     <servers />
   </component>
