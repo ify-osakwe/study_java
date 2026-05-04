@@ -30,7 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -144,6 +144,7 @@
     "Application.File02.executor": "Run",
     "Application.File03.executor": "Run",
     "Application.File04.executor": "Run",
+    "Application.FindAverages.executor": "Run",
     "Application.FindMinRotatedSubArray.executor": "Run",
     "Application.FirstLastPosition.executor": "Run",
     "Application.FirstMissingPositive.executor": "Run",
@@ -382,7 +383,7 @@
       <recent name="timBulchalka.unitTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CallByReferenceOrValue">
+  <component name="RunManager" selected="Application.FindAverages">
     <configuration name="CallByReferenceOrValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studyNotes.playground.CallByReferenceOrValue" />
       <module name="study_java" />
@@ -396,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyNotes.streams.Stream2" />
+    <configuration name="FindAverages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.grokbook.slidingwindow.FindAverages" />
       <module name="study_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyNotes.streams.*" />
+          <option name="PATTERN" value="dsa.grokbook.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,11 +451,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAverages" />
         <item itemvalue="Application.CallByReferenceOrValue" />
         <item itemvalue="Application.Stream5" />
         <item itemvalue="Application.Stream4" />
         <item itemvalue="Application.Stream3" />
-        <item itemvalue="Application.Stream2" />
       </list>
     </recent_temporary>
   </component>
@@ -565,6 +566,7 @@
       <workItem from="1776181202368" duration="9411000" />
       <workItem from="1776257772438" duration="2089000" />
       <workItem from="1776362533330" duration="192000" />
+      <workItem from="1777734867739" duration="5298000" />
     </task>
     <servers />
   </component>
