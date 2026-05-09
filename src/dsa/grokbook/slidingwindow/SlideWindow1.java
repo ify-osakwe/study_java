@@ -3,10 +3,11 @@ package dsa.grokbook.slidingwindow;
 import java.util.Arrays;
 
 /**
+ * Maximum subarray of size K.
  * Given an array, find the average of all contiguous subarrays of size ‘K’ in it.
  * Array: [1, 3, 2, 6, -1, 4, 1, 8, 2], K=5
  */
-public class FindAverages {
+public class SlideWindow1 {
 
     public static void main(String[] args) {
         int[] arr1 = {1, 3, 2, 6, -1, 4, 1, 8, 2};
@@ -15,7 +16,7 @@ public class FindAverages {
         System.out.println(Arrays.toString(findAverageSLIDINGWINDOW(5, arr1)));
     }
 
-    public static double[] findAverageSLIDINGWINDOW(int K, int[] array) {
+    private static double[] findAverageSLIDINGWINDOW(int K, int[] array) {
         double[] result = new double[array.length - K + 1];
         double windowSum = 0;
         int windowStart = 0;
@@ -33,7 +34,7 @@ public class FindAverages {
     }
 
     // Time Complexity: O(N*K); ‘N’ is the number of elements in the input array.
-    public static double[] findAverageBRUTEFORCE(int K, int[] array) {
+    private static double[] findAverageBRUTEFORCE(int K, int[] array) {
         double[] result = new double[array.length - K + 1];
         for (int i = 0; i <= array.length - K; i++) {
             double sum = 0;
